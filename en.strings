@@ -1,8 +1,9 @@
 "__locale" = "en_US.UTF-8;Eng";
+"__WinEncoding" = "Windows-1251";
 
 /* Check for https://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html */
-
 /* Main page */
+
 
 "home" = "Home";
 "welcome" = "Welcome";
@@ -12,7 +13,7 @@
 "log_in" = "Log in";
 "password" = "Password";
 "registration" = "Registration";
-"forgot_password" = "Forgot your password?";
+"forgot_password" = "Забыли пароль?";
 
 /* Profile information */
 
@@ -36,18 +37,15 @@
 "nickname" = "Nickname";
 "online" = "Online";
 "was_online" = "was online";
-"was_online_m" = "was online"; 
-/* For male and female */
-
-"years" = "y.o";
-
+"was_online_m" = "was online";
 "was_online_f" = "was online";
 "all_title" = "All";
 "information" = "Information";
 "status" = "Status";
 "no_information_provided" = "No information provided.";
 "deceased_person" = "Deceased person";
-"none" = "none";
+"none" = "отсутствует";
+"years" = "y.o";
 
 "relationship" = "Relationship";
 
@@ -98,6 +96,7 @@
 
 "post_writes_m" = "wrote";
 "post_writes_f" = "wrote";
+"post_writes_g" = "posted";
 "wall" = "Wall";
 "post" = "Post";
 "write" = "Write";
@@ -105,9 +104,9 @@
 "delete" = "Delete";
 "comments" = "Comments";
 "share" = "Share";
-"pin" = "Pin";
-"unpin" = "Unpin";
-"pinned" = "pinned";
+"pin" = "Закрепить";
+"unpin" = "Открепить";
+"pinned" = "закреплено";
 "comments_tip" = "Be first, who leaves a comment at this post!";
 "your_comment" = "Your comment";
 "comments" = "Comments";
@@ -115,31 +114,33 @@
 "x_out_of" = "$1 of";
 "wall_zero" = "no posts";
 "wall_one" = "$1 post";
+"wall_few" = "$1 posts";
+"wall_many" = "$1 posts";
 "wall_other" = "$1 posts";
-"feed" = "News";
-"publish_post" = "Add post";
 
-"all_news" = "All news";
-"posts_per_page" = "Number of posts per page";
+"all_news" = "Все новости";
+"posts_per_page" = "Количество записей на странице";
 
-"attachment" = "Attachment";
-"post_as_group" = "Post as group";
-"add_signature" = "Add signature";
-/* ^ can be translated as "author's signature". ^ */
-"contains_nsfw" = "Contains NSFW content";
+"attachment" = "Вложение";
+"post_as_group" = "От имени сообщества";
+"add_signature" = "Подпись автора";
+"contains_nsfw" = "Содержит NSFW-контент";
 "nsfw_warning" = "This post may have NSFW-content";
 "report" = "Report";
 "attach_photo" = "Attach photo";
 "no_posts_abstract" = "Nobody wrote anything here... At least.";
-"attach_no_longer_available" = "This attachment is no longer available.";
-"open_post" = "Open post";
-"version_incompatibility" = "This attachment could not be displayed. Probably the database is incompatible with the current version of OpenVK.";
+"attach_no_longer_available" = "Это вложение больше недоступно.";
+"open_post" = "Открыть запись";
+"version_incompatibility" = "Не удалось отобразить это вложение. Возможно, база данных несовместима с текущей версией OpenVK.";
 
 /* Friends */
 
 "friends" = "Friends";
 "followers" = "Followers";
 "follower" = "Follower";
+"login_as" = "Login as $1";
+"ban_fast" = "Ban";
+"adm_notify" = "Warn";
 "friends_add" = "Add to friends";
 "friends_delete" = "Remove from friends";
 "friends_reject" = "Reject request";
@@ -151,14 +152,20 @@
 
 "firends_zero" = "No friends";
 "friends_one" = "$1 friend";
+"friends_few" = "$1 friends";
+"friends_many" = "$1 friends";
 "friends_other" = "$1 friends";
 
 "followers_zero" = "No followers";
 "followers_one" = "$1 follower";
+"followers_few" = "$1 followers";
+"followers_many" = "$1 followers";
 "followers_other" = "$1 followers";
 
 "subscriptions_zero" = "No subscriptions";
 "subscriptions_one" = "$1 subscription";
+"subscriptions_few" = "$1 subscriptions";
+"subscriptions_many" = "$1 subscriptions";
 "subscriptions_other" = "$1 subscriptions";
 
 /* Group */
@@ -189,14 +196,20 @@
 
 "participants_zero" = "No participants";
 "participants_one" = "$1 participant";
+"participants_few" = "$1 participants";
+"participants_many" = "$1 participants";
 "participants_other" = "$1 participant";
 
 "groups_zero" = "No groups";
 "groups_one" = "$1 group";
+"groups_few" = "$1 groups";
+"groups_many" = "$1 groups";
 "groups_other" = "$1 groups";
 
 "meetings_zero" = "No meetings";
 "meetings_one" = "$1 meeting";
+"meetings_few" = "$1 meetings";
+"meetings_many" = "$1 meetings";
 "meetings_other" = "$1 meetings";
 
 /* Albums */
@@ -212,11 +225,13 @@
 
 "open_original" = "Open original";
 
-"avatar_album" = "Profile photos";
+"avatar_album" = "Page photos";
 "wall_album" = "Wall photos";
 
 "albums_zero" = "No albums";
 "albums_one" = "$1 album";
+"albums_few" = "$1 albums";
+"albums_many" = "$1 albums";
 "albums_other" = "$1 albums";
 
 /* Notes */
@@ -227,14 +242,16 @@
 "text_note" = "Content";
 "create_note" = "Create note";
 "actions" = "Actions";
+"feed" = "News";
+"publish_post" = "Add post";
 
 "notes_zero" = "No notes";
 "notes_one" = "$1 note";
+"notes_few" = "$1 notes";
+"notes_many" = "$1 notes";
 "notes_other" = "$1 notes";
 
 /* Menus */
-
-/* Note that is string need to fit into the "My Page" link */
 
 "edit_button" = "edit";
 "my_page" = "My Page";
@@ -262,9 +279,8 @@
 "header_log_out" = "log out";
 "header_search" = "Search";
 
-"header_login" = "login";
-"header_registration" = "registration";
-"header_help" = "help";
+"header_login" = "вход";
+"header_registration" = "регистрация";
 
 "footer_blog" = "blog";
 "footer_help" = "help";
@@ -272,12 +288,18 @@
 "footer_choose_language" = "choose language";
 "footer_privacy" = "privacy";
 
+"notes_zero" = "No notes";
+"notes_one" = "$1 note";
+"notes_few" = "$1 notes";
+"notes_many" = "$1 notes";
+"notes_other" = "$1 notes";
+
 /* Settings */
 
 "main" = "Main";
 "contacts" = "Contacts";
 "avatar" = "Avatar";
-"privacy" = "Privacy";
+"privacy" = "privacy";
 "interface" = "Interface";
 
 "profile_picture" = "Profile picture";
@@ -299,9 +321,11 @@
 "search_for_groups" = "Search for groups";
 "search_for_people" = "Search for people";
 "search_button" = "Find";
-"results_zero" = "No results";
-"results_one" = "$1 result";
-"results_other" = "$1 results";
+"results_zero" = "Ни одного результата";
+"results_one" = "Один результат";
+"results_few" = "$1 результата";
+"results_many" = "$1 результатов";
+"results_other" = "$1 результатов";
 
 "privacy_setting_access_page" = "Who can view my page";
 "privacy_setting_read_info" = "Who can see main information of my page";
@@ -317,8 +341,9 @@
 "privacy_value_users" = "OpenVK users";
 "privacy_value_friends" = "Friends";
 "privacy_value_friends_dative" = "Friends";
-"privacy_value_only_me" = "Only me";
-"privacy_value_only_me_dative" = "Only me";
+"privacy_value_only_me_and_super_capite" = "Only me and admins";
+"privacy_value_only_me_and_super_capite_dative" = "Only me and admins";
+"privacy_value_super_capite" = "Admins";
 
 "your_email_address" = "Your Email address";
 "your_page_address" = "Your address page";
@@ -357,6 +382,8 @@
 
 "videos_zero" = "No videos";
 "videos_one" = "$1 video";
+"videos_few" = "$1 videos";
+"videos_many" = "$1 videos";
 "videos_other" = "$1 videos";
 
 /* Notifications */
@@ -397,6 +424,43 @@
 "time_minutes_ago" = "$1 minutes ago";
 "time_today" = "today";
 "time_yesterday" = "yesterday";
+
+"privacy_setting_access_page" = "Who can view my page";
+"privacy_setting_read_info" = "Who can see main information of my page";
+"privacy_setting_see_groups" = "Who can see my groups and meetings";
+"privacy_setting_see_photos" = "Who can see my photos";
+"privacy_setting_see_videos" = "Who can see my videos";
+"privacy_setting_see_notes" = "Who can see my notes";
+"privacy_setting_see_friends" = "Who can see my friends";
+"privacy_setting_add_to_friends" = "Who can add me to friends";
+"privacy_setting_write_wall" = "Who can publish post on my wall";
+"privacy_value_anybody" = "Anybody";
+"privacy_value_anybody_dative" = "Anybody";
+"privacy_value_users" = "OpenVK users";
+"privacy_value_friends" = "Friends";
+"privacy_value_friends_dative" = "Friends";
+"privacy_value_only_me_and_super_capite" = "Only me";
+"privacy_value_only_me_and_super_capite_dative" = "Only me";
+"privacy_value_super_capite" = "Nobody";
+
+"your_email_address" = "Your Email address";
+"your_page_address" = "Your address page";
+"page_address" = "Address page";
+"current_email_address" = "Current email address";
+"page_id" = "Page ID";
+"you_can_also" = "You can also";
+"delete_your_page" = "delete your page";
+"delete_album" = "delete album";
+
+"ui_settings_interface" = "Interface";
+"ui_settings_sidebar" = "Left menu";
+"ui_settings_rating" = "Rating";
+"ui_settings_rating_show" = "Show";
+"ui_settings_rating_hide" = "Hide";
+
+"points" = "Credits";
+"points_count" = "credits";
+"on_your_account" = "Your balance is";
 
 /* Errors */
 
