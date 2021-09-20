@@ -1,8 +1,9 @@
 "__locale" = "tr_TR.UTF-8;Tur";
+"__WinEncoding" = "Windows-1251";
 
 /* Check for https://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html */
-
 /* Main page */
+
 
 "home" = "Ana ekran";
 "welcome" = "Hoşgeldin";
@@ -12,7 +13,7 @@
 "log_in" = "Giriş yap";
 "password" = "Parola";
 "registration" = "Kayıt";
-"forgot_password" = "Parolanızı mı unuttunuz?";
+"forgot_password" = "Забыли пароль?";
 
 /* Profile information */
 
@@ -36,16 +37,15 @@
 "nickname" = "Takma ad";
 "online" = "Çevrimiçi";
 "was_online" = "çevrimiçiydi";
-"was_online_m" = "çevrimiçiydi"; 
-/* For male and femail */
-
+"was_online_m" = "çevrimiçiydi";
 "was_online_f" = "çevrimiçiydi";
 "all_title" = "Tümü";
 "information" = "Bilgi";
 "status" = "Durum";
 "no_information_provided" = "Verilen bilgi yok.";
 "deceased_person" = "Vefat eden kişi";
-"none" = "hiçbiri";
+"none" = "отсутствует";
+"years" = "лет";
 
 "relationship" = "İlişki durumu";
 
@@ -90,12 +90,13 @@
 "favorite_quotes" = "Favori sözler";
 "information_about" = "Hakkında";
 
-"updated_at" = "Güncelleme: $1";
+"updated_at" = "Обновлено $1";
 
 /* Wall */
 
 "post_writes_m" = "yazdı";
 "post_writes_f" = "yazdı";
+"post_writes_g" = "опубликовали";
 "wall" = "Duvar";
 "post" = "Gönderi";
 "write" = "Yaz";
@@ -103,9 +104,9 @@
 "delete" = "Sil";
 "comments" = "Yorumlar";
 "share" = "Paylaş";
-"pin" = "Sabitle";
-"unpin" = "Sabitlemeyi kaldır";
-"pinned" = "sabitlendi";
+"pin" = "Закрепить";
+"unpin" = "Открепить";
+"pinned" = "закреплено";
 "comments_tip" = "Bu gönderiye yorum bırakan ilk kişi sen ol!";
 "your_comment" = "Yorumun";
 "comments" = "Yorumlar";
@@ -113,32 +114,33 @@
 "x_out_of" = "$1 of";
 "wall_zero" = "gönderi yok";
 "wall_one" = "$1 gönderi";
+"wall_few" = "$1 записи";
+"wall_many" = "$1 записей";
 "wall_other" = "$1 gönderi";
-"feed" = "Haberler";
-"publish_post" = "Gönderi ekle";
 
-"all_news" = "Tüm haberler";
-"posts_per_page" = "Sayfa başına yapılan gönderiler";
+"all_news" = "Все новости";
+"posts_per_page" = "Количество записей на странице";
 
-"attachment" = "Ek";
-"post_as_group" = "Grup olarak gönder";
-"add_signature" = "İmza ekle";
-/* ^ can be translated as "author's signature". ^ */
-"contains_nsfw" = "+18 içeriyor";
+"attachment" = "Вложение";
+"post_as_group" = "От имени сообщества";
+"add_signature" = "Подпись автора";
+"contains_nsfw" = "Содержит NSFW-контент";
 "nsfw_warning" = "Bu gönderinin +18 içeriği olabilir";
 "report" = "Bildir";
 "attach_photo" = "Resim ekle";
 "no_posts_abstract" = "Kimse buraya bir şey yazmadı... Şimdilik.";
-"attach_no_longer_available" = "Ek artık mevcut değil.";
-"open_post" = "Gönderiyi aç";
-"version_incompatibility" = "Bu ek gösterilemiyor. Veritabanı OpenVK'in mevcut sürümüyle uyumlu olmayabilir.";
-
+"attach_no_longer_available" = "Это вложение больше недоступно.";
+"open_post" = "Открыть запись";
+"version_incompatibility" = "Не удалось отобразить это вложение. Возможно, база данных несовместима с текущей версией OpenVK.";
 
 /* Friends */
 
 "friends" = "Arkadaşlar";
 "followers" = "Takipçiler";
 "follower" = "Takipçi";
+"login_as" = "Login as $1";
+"ban_fast" = "Забанить";
+"adm_notify" = "Предупредить";
 "friends_add" = "Arkadaşlara ekle";
 "friends_delete" = "Arkadaşlardan kaldır";
 "friends_reject" = "İsteği reddet";
@@ -150,14 +152,20 @@
 
 "firends_zero" = "Arkadaş yok";
 "friends_one" = "$1 arkadaş";
+"friends_few" = "$1 друга";
+"friends_many" = "$1 друзей";
 "friends_other" = "$1 arkadaş";
 
 "followers_zero" = "Takipçi yok";
 "followers_one" = "$1 takipçi";
+"followers_few" = "$1 подписчика";
+"followers_many" = "$1 подписчиков";
 "followers_other" = "$1 takipçi";
 
 "subscriptions_zero" = "Abonelik yok";
 "subscriptions_one" = "$1 abonelik";
+"subscriptions_few" = "$1 подписки";
+"subscriptions_many" = "$1 подписок";
 "subscriptions_other" = "$1 abonelik";
 
 /* Group */
@@ -183,19 +191,25 @@
 "administrator" = "Yönetici";
 "promote_to_admin" = "Yöneticiliğe yükselt";
 "devote" = "Yetkisini kaldır";
-"group_allow_post_for_everyone" = "Herkesin gönderi yapmasına izin ver";
-"statistics" = "İstatistikler";
+"group_allow_post_for_everyone" = "Разрешить публиковать записи всем";
+"statistics" = "Статистика";
 
 "participants_zero" = "Katılımcı yok";
 "participants_one" = "$1 katılımcı";
+"participants_few" = "$1 участника";
+"participants_many" = "$1 участников";
 "participants_other" = "$1 katılımcı";
 
 "groups_zero" = "Grup yok";
 "groups_one" = "$1 grup";
+"groups_few" = "$1 группы";
+"groups_many" = "$1 групп";
 "groups_other" = "$1 grup";
 
 "meetings_zero" = "Toplantı yok";
 "meetings_one" = "$1 toplantı";
+"meetings_few" = "$1 встречи";
+"meetings_many" = "$1 встреч";
 "meetings_other" = "$1 toplantı";
 
 /* Albums */
@@ -209,10 +223,15 @@
 "photo" = "Fotoğraf";
 "upload_button" = "Yükle";
 
-"open_original" = "Orijinali aç";
+"open_original" = "Открыть оригинал";
+
+"avatar_album" = "Фотографии со страницы";
+"wall_album" = "Фотографии со стены";
 
 "albums_zero" = "Albüm yok";
 "albums_one" = "$1 albüm";
+"albums_few" = "$1 альбома";
+"albums_many" = "$1 альбомов";
 "albums_other" = "$1 albüm";
 
 /* Notes */
@@ -223,14 +242,16 @@
 "text_note" = "İçerik";
 "create_note" = "Not oluştur";
 "actions" = "İşlemler";
+"feed" = "Haberler";
+"publish_post" = "Gönderi ekle";
 
 "notes_zero" = "Not yok";
 "notes_one" = "$1 not";
+"notes_few" = "$1 заметки";
+"notes_many" = "$1 заметок";
 "notes_other" = "$1 not";
 
 /* Menus */
-
-/* Note that is string need to fit into the "My Page" link */
 
 "edit_button" = "dznl";
 "my_page" = "Sayfam";
@@ -258,15 +279,20 @@
 "header_log_out" = "çıkış yap";
 "header_search" = "ara";
 
-"header_login" = "giriş yap";
-"header_registration" = "kayıt";
-"header_help" = "yardım";
+"header_login" = "вход";
+"header_registration" = "регистрация";
 
 "footer_blog" = "blog";
 "footer_help" = "yardım";
 "footer_developers" = "geliştiriciler";
 "footer_choose_language" = "dil seç";
 "footer_privacy" = "gizlilik";
+
+"notes_zero" = "Not yok";
+"notes_one" = "$1 not";
+"notes_few" = "$1 заметки";
+"notes_many" = "$1 заметок";
+"notes_other" = "$1 not";
 
 /* Settings */
 
@@ -295,6 +321,12 @@
 "search_for_groups" = "Grup ara";
 "search_for_people" = "Kişi ara";
 "search_button" = "Ara";
+"results_zero" = "Ни одного результата";
+"results_one" = "Один результат";
+"results_few" = "$1 результата";
+"results_many" = "$1 результатов";
+"results_other" = "$1 результатов";
+
 "privacy_setting_access_page" = "Sayfamı kim görebilir";
 "privacy_setting_read_info" = "Sayfamın ana bilgisini kim görebilir";
 "privacy_setting_see_groups" = "Gruplarımı ve toplantılarımı kim görebilir";
@@ -309,8 +341,9 @@
 "privacy_value_users" = "OpenVK kullanıcıları";
 "privacy_value_friends" = "Arkadaşlarım";
 "privacy_value_friends_dative" = "Arkadaşlarım";
-"privacy_value_only_me" = "Sadece ben";
-"privacy_value_only_me_dative" = "Sadece ben";
+"privacy_value_only_me_and_super_capite" = "Я и Виталина Павленко";
+"privacy_value_only_me_and_super_capite_dative" = "Мне и Виталине Павленко";
+"privacy_value_super_capite" = "Виталине Павленко";
 
 "your_email_address" = "E-posta adresin";
 "your_page_address" = "Adres sayfan";
@@ -342,13 +375,15 @@
 "video_updated" = "Güncellendi";
 "video_link_to_yt" = "YT linki";
 
-"info_name" = "Başlık";
-"info_description" = "Açıklama";
-"info_uploaded_by" = "Yükleyen";
-"info_upload_date" = "Yükleme tarihi";
+"info_name" = "Название";
+"info_description" = "Описание";
+"info_uploaded_by" = "Загрузил";
+"info_upload_date" = "Дата загрузки";
 
 "videos_zero" = "Video yok";
 "videos_one" = "$1 video";
+"videos_few" = "$1 видеозаписи";
+"videos_many" = "$1 видеозаписей";
 "videos_other" = "$1 video";
 
 /* Notifications */
@@ -390,6 +425,43 @@
 "time_today" = "bugün";
 "time_yesterday" = "dün";
 
+"privacy_setting_access_page" = "Sayfamı kim görebilir";
+"privacy_setting_read_info" = "Sayfamın ana bilgisini kim görebilir";
+"privacy_setting_see_groups" = "Gruplarımı ve toplantılarımı kim görebilir";
+"privacy_setting_see_photos" = "Fotoğraflarımı kim görebilir";
+"privacy_setting_see_videos" = "Videolarımı kim görebilir";
+"privacy_setting_see_notes" = "Notlarımı kin görebilir";
+"privacy_setting_see_friends" = "Arkadaşlarımı kim görebilir";
+"privacy_setting_add_to_friends" = "Beni arkadaşlarına kim ekleyebilir";
+"privacy_setting_write_wall" = "Duvarımda kim gönderi yayınlayabilir";
+"privacy_value_anybody" = "Hiç kimse";
+"privacy_value_anybody_dative" = "Hiç kimse";
+"privacy_value_users" = "OpenVK kullanıcıları";
+"privacy_value_friends" = "Arkadaşlarım";
+"privacy_value_friends_dative" = "Arkadaşlarım";
+"privacy_value_only_me_and_super_capite" = "Только я";
+"privacy_value_only_me_and_super_capite_dative" = "Только мне";
+"privacy_value_super_capite" = "Никто";
+
+"your_email_address" = "E-posta adresin";
+"your_page_address" = "Adres sayfan";
+"page_address" = "Adres sayfası";
+"current_email_address" = "Mevcut e-posta adresin";
+"page_id" = "Sayfa ID'si";
+"you_can_also" = "Ayrıca";
+"delete_your_page" = "sayfanı silebilirsin";
+"delete_album" = "albümü silebilirsin";
+
+"ui_settings_interface" = "Arayüz";
+"ui_settings_sidebar" = "Sol menü";
+"ui_settings_rating" = "Oylama";
+"ui_settings_rating_show" = "Göster";
+"ui_settings_rating_hide" = "Gizle";
+
+"points" = "Голоса";
+"points_count" = "голосов";
+"on_your_account" = "на вашем счету";
+
 /* Errors */
 
 "error_1" = "Yanlış sorgu";
@@ -421,13 +493,12 @@
 
 /* Admin actions */
 
-"login_as" = "$1 olarak giriş yap";
-"ban_user_action" = "Kullanıcıyı yasakla";
-"warn_user_action" = "Kullanıcıyı uyar";
+"login_as" = "Войти как $1";
+"ban_user_action" = "Ban user";
+"warn_user_action" = "Warn user";
 
 /* Paginator */
+
 "paginator_back" = "Geri";
 "paginator_page" = "Sayfa $1";
 "paginator_next" = "İleri";
-
-/* Translated by @WindowZ414 - @WindowZ414 tarafından çevirildi */
