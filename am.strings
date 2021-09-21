@@ -13,6 +13,7 @@
 "log_in" = "Մուտք";
 "password" = "Գաղտնաբառ";
 "registration" = "Գրանցում";
+"forgot_password" = "Մոռացել եք գաղտնաբա՞ռը";
 
 /* Profile information */
 
@@ -43,6 +44,7 @@
 "status" = "Ստատուս";
 "no_information_provided" = "Ինֆորմացիան բացակայում է";
 "deceased_person" = "Մահացած մարդ";
+"none" = "բացակայում է";
 "years" = "տարեկան";
 
 "relationship" = "Ընտանեկան դրություն";
@@ -117,6 +119,9 @@
 "report" = "Բողոքարկել";
 "attach_photo" = "Ամրացնել նկար";
 "no_posts_abstract" = "Այստեղ ոչ ոք, ոչինչ․․․ դեռ չի գրել․․․";
+"attach_no_longer_available" = "Այս հավելվածը այլևս հասանելի չէ";
+"open_post" = "Բացել գրությունը";
+"version_incompatibility" = "Չհաջողվեց ցույց տալ հավելվածը։ Հնարավոր է, բազաների տվյալները հասանելի չեն OpenVK–ի այս տարբերակի հետ։";
 
 /* Friends */
 
