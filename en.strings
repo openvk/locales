@@ -401,7 +401,7 @@
 "vouchers" = "Vouchers";
 "have_voucher" = "Have voucher";
 "voucher_token" = "Voucher token";
-"voucher_activators" = "Activators";
+"voucher_activators" = "Users";
 "voucher_explanation" = "Enter the voucher serial number. It is usually listed on the receipt or in the message.";
 "voucher_explanation_ex" = "Note that vouchers can expire and can only be used once.";
 "invalid_voucher" = "Voucher is invalid";
