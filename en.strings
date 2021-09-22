@@ -407,7 +407,7 @@
 "invalid_voucher" = "Voucher is invalid";
 "voucher_bad" = "You may have entered the wrong serial number, already used voucher, or the voucher has simply expired.";
 "voucher_good" = "Voucher activated";
-"voucher_redeemed" = "The voucher has been successfully activated. You will receive points, but you will no longer be able to activate the voucher with this code.";
+"voucher_redeemed" = "The voucher has been successfully activated. You will receive points, but you will no longer be able to activate it with this code.";
 "redeem" = "Redeem voucher";
 "deactivate" = "Deactivate";
 "usages_total" = "Number of uses";
