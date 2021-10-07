@@ -46,6 +46,7 @@
 "deceased_person" = "Сторінка покійної людини";
 "none" = "відсутній";
 "years" = "років";
+"send" = "Відправити";
 
 "relationship" = "Сімейний стан";
 
@@ -476,6 +477,35 @@
 "deactivate" = "Деактивувати";
 "usages_total" = "Кількість використань";
 "usages_left" = "Залишилося використань";
+
+/* Gifts */
+
+"gift" = "Подарунок";
+"gifts" = "Подарунки";
+"gifts_zero" = "Немає подарунків";
+"gifts_one" = "Один подарунок";
+"gifts_few" = "$1 подарунка";
+"gifts_many" = "$1 подарунків";
+"gifts_other" = "$1 подарунків";
+
+"send_gift" = "Відправити подарунок";
+
+"gift_select" = "Вибрати подарунок";
+"collections" = "Колекції";
+"confirm" = "Підтверждення";
+"as_anonymous" = "Анонімно";
+"gift_your_message" = "Ваше повідомлення";
+
+"free_gift" = "Безкоштовно";
+"coins" = "Голоса";
+"coins_zero" = "0 голосів";
+"coins_one" = "Один голос";
+"coins_few" = "$1 голоса";
+"coins_many" = "$1 голосів";
+"coins_other" = "$1 голосів";
+
+"comment" = "Коментар";
+"sender" = "Відправник";
 
 /* Errors */
 
