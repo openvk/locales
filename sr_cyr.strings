@@ -46,6 +46,7 @@
 "deceased_person" = "Страница покойного человека";
 "none" = "отсутствует";
 "years" = "лет";
+"send" = "Отправить";
 
 "relationship" = "Породични статус";
 
@@ -476,6 +477,35 @@
 "deactivate" = "Деактивировать";
 "usages_total" = "Количество использований";
 "usages_left" = "Осталось использований";
+
+/* Gifts */
+
+"gift" = "Подарок";
+"gifts" = "Подарки";
+"gifts_zero" = "Нет подарков";
+"gifts_one" = "Один подарок";
+"gifts_few" = "$1 подарка";
+"gifts_many" = "$1 подарков";
+"gifts_other" = "$1 подарков";
+
+"send_gift" = "Отправить подарок";
+
+"gift_select" = "Выбрать подарок";
+"collections" = "Коллекции";
+"confirm" = "Подтверждение";
+"as_anonymous" = "Анонимно";
+"gift_your_message" = "Ваше сообщение";
+
+"free_gift" = "Бесплатно";
+"coins" = "Голоса";
+"coins_zero" = "0 голосов";
+"coins_one" = "Один голос";
+"coins_few" = "$1 голоса";
+"coins_many" = "$1 голосов";
+"coins_other" = "$1 голосов";
+
+"comment" = "Комментарий";
+"sender" = "Отправитель";
 
 /* Errors */
 
