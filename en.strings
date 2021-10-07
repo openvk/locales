@@ -413,6 +413,31 @@
 "usages_total" = "Number of uses";
 "usages_left" = "Uses left";
 
+/* Gifts */
+
+"gift" = "Gift";
+"gifts" = "Gifts";
+"gifts_zero" = "Zero gifts";
+"gifts_one" = "One gift";
+"gifts_other" = "$1 gifts";
+
+"send_gift" = "Send gift";
+
+"gift_select" = "Select gift";
+"collections" = "Collections";
+"confirm" = "Confirm";
+"as_anonymous" = "As anonymous";
+"gift_your_message" = "Your message";
+
+"free_gift" = "Free";
+"coins" = "Voices";
+"coins_zero" = "0 voices";
+"coins_one" = "One voice";
+"coins_other" = "$1 voices";
+
+"comment" = "Comment";
+"sender" = "Sender";
+
 /* Errors */
 
 "error_1" = "Incorrect query";
