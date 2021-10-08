@@ -38,6 +38,8 @@
 "was_online_m" = "war online"; 
 /* For male and female */
 
+"years" = "Jahre alt";
+
 "was_online_f" = "war online";
 "all_title" = "Alle";
 "information" = "Information";
@@ -101,6 +103,9 @@
 "delete" = "Löschen";
 "comments" = "Kommentare";
 "share" = "Teilen";
+"pin" = "Pin hinzufügen";
+"unpin" = "Pin entfernen";
+"pinned" = "angepinnt";
 "comments_tip" = "Sei der erste, der einen Kommentar schreibt!";
 "your_comment" = "Dein Kommentar";
 "comments" = "Kommentare";
@@ -112,10 +117,20 @@
 "feed" = "Nachrichten";
 "publish_post" = "Post hinzufügen";
 
+"all_news" = "Alle Nachrichten";
+"posts_per_page" = "Anzahl an Posts per Seite";
+
+"attachment" = "Anhang";
+"post_as_group" = "Als Gruppe posten";
+"add_signature" = "Signatur hinzufügen";
+
 "nsfw_warning" = "Dieser Post enthält möglicherweise NSFW-Inhalte";
 "report" = "Melden";
 "attach_photo" = "Foto anhängen";
 "no_posts_abstract" = "Niemand hat etwas geschrieben...Hier zumindestens nicht.";
+"attach_no_longer_available" = "Dieser Anhang ist nicht mehr verfügbar.";
+"open_post" = "Post öffnen";
+"version_incompatibility" = "Der Anhang konnte nicht angezeigt werden. Wahrscheinlich ist die Datenbank inkompatibel mit der aktuellen Version von OpenVK.";
 
 /* Friends */
 
@@ -191,6 +206,11 @@
 "upload_photo" = "Foto hochladen";
 "photo" = "Foto";
 "upload_button" = "Hochladen";
+
+"open_original" = "Original öffnen";
+
+"avatar_album" = "Profilfotos";
+"wall_album" = "Pinnwand-Fotos";
 
 "albums_zero" = "Keine Alben";
 "albums_one" = "$1 Album";
@@ -276,6 +296,10 @@
 "search_for_groups" = "Nach Gruppen suchen";
 "search_for_people" = "Nach Personen suchen";
 "search_button" = "Suchen";
+"results_zero" = "Keine Ergebnisse";
+"results_one" = "$1 Ergebnis";
+"results_other" = "$1 Ergebnisse";
+
 "privacy_setting_access_page" = "Wer darf meine Seite sehen";
 "privacy_setting_read_info" = "Wer darf meine Hauptinformationen sehen";
 "privacy_setting_see_groups" = "Wer darf meine Gruppen und Meetings sehen";
@@ -370,6 +394,46 @@
 "time_minutes_ago" = "vor $1 Minuten";
 "time_today" = "Heute";
 "time_yesterday" = "Gestern";
+
+"vouchers" = "Gutschein";
+"have_voucher" = "Gutschein einlösen";
+"voucher_token" = "Gutschein-Token";
+"voucher_activators" = "Nutzer";
+"voucher_explanation" = "Gebe die Seriennummer des Gutscheins ein. Sie sollte auf der Quitting oder in der Nachricht sein.";
+"voucher_explanation_ex" = "Bedenke das Gutscheine verfallen und nur einmal eingelöst werden können.";
+"invalid_voucher" = "Gutschein ungültig";
+"voucher_bad" = "Du hast möglicherweise die falsche Seriennummer, einen bereits genutzen Gutschein, oder einen abgelaufenen eingegeben.";
+"voucher_good" = "Gutschein eingelöst";
+"voucher_redeemed" = "Der Gutschein wurde erfolgreich eingelöst. YDu wirst Punkte erhalten, aber du wirst sie nicht mehr mit dieser Seriennummer einlösen können.";
+"redeem" = "Gutschein einlösen";
+"deactivate" = "Deaktivieren";
+"usages_total" = "Mal eingelöst";
+"usages_left" = "mal einlösen verbleibend";
+
+/* Gifts */
+
+"gift" = "Geschenk";
+"gifts" = "Geschenke";
+"gifts_zero" = "Keine Geschenke";
+"gifts_one" = "1 Geschenk";
+"gifts_other" = "$1 Geschenke";
+
+"send_gift" = "Geschenk senden";
+
+"gift_select" = "Geschenk auswählen";
+"collections" = "Sammlungen";
+"confirm" = "Bestätigen";
+"as_anonymous" = "Als Anonym";
+"gift_your_message" = "Deine Nachricht";
+
+"free_gift" = "Kostenlos";
+"coins" = "Stimmen";
+"coins_zero" = "0 Stimmen";
+"coins_one" = "1 Stimme";
+"coins_other" = "$1 Stimmen";
+
+"comment" = "Kommentar";
+"sender" = "Sender";
 
 /* Errors */
 
