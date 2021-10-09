@@ -459,3 +459,29 @@
 "paginator_back" = "Назад";
 "paginator_page" = "Старонка $1";
 "paginator_next" = "Далей";
+
+/* Gifts */
+"gift" = "Падарунак";
+"gifts" = "Падарункі";
+"gifts_zero" = "Няма падарункаў";
+"gifts_one" = "Адзін падарунак";
+"gifts_other" = "$1 падарункаў";
+
+"send_gift" = "Адправіць падарунак";
+
+"gift_select" = "Выбраць падарунак";
+"collections" = "Калекцыі";
+"confirm" = "Пацвердзіць";
+"as_anonymous" = "Ананімна";
+"gift_your_message" = "Ваша паведамленне";
+
+"free_gift" = "Бясплатна";
+"coins" = "Галасы";
+"coins_zero" = "0 галасоў";
+"coins_few" = "$1 голаса";
+"coins_one" = "Адзін голас";
+"coins_other" = "$1 галасоў";
+
+"comment" = "Каментарый";
+"sender" = "Адпраўнік";
+
