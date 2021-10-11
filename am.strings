@@ -46,6 +46,7 @@
 "deceased_person" = "Մահացած մարդ";
 "none" = "բացակայում է";
 "years" = "տարեկան";
+"send" = "ուղարկել";
 
 "relationship" = "Ընտանեկան դրություն";
 
@@ -444,6 +445,35 @@
 "points" = "Ձայներ";
 "points_count" = "ձայն";
 "on_your_account" = "ձեր հաշվի վրա";
+
+/* Gifts */
+
+"gift" = "Նվեր";
+"gifts" = "Նվերներ";
+"gifts_zero" = "Նվերներ չկան";
+"gifts_one" = "Մեկ նվեր";
+"gifts_few" = "$1 նվեր";
+"gifts_many" = "$1 նվեր";
+"gifts_other" = "$1 նվեր";
+
+"send_gift" = "Ուղարկել նվեր";
+
+"gift_select" = "Ընտրել նվեր";
+"collections" = "Հավաքածուներ";
+"confirm" = "Հաստատում";
+"as_anonymous" = "Գաղտնի";
+"gift_your_message" = "Ձեր նամակը";
+
+"free_gift" = "Անվճար";
+"coins" = "Ձայներ";
+"coins_zero" = "0 ձայն";
+"coins_one" = "Մեկ ձայն";
+"coins_few" = "$1 ձայն";
+"coins_many" = "$1 ձայն";
+"coins_other" = "$1 ձայն";
+
+"comment" = "Մեկնաբանություն";
+"sender" = "Ուղարկող";
 
 /* Errors */
 
