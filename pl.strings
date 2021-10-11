@@ -46,6 +46,7 @@
 "deceased_person" = "Strona zmarłego człowieka";
 "none" = "brakuje";
 "years" = "lat";
+"send" = "Wysłać";
 
 "relationship" = "Stan cywilny";
 
@@ -476,6 +477,35 @@
 "deactivate" = "Dezaktywować";
 "usages_total" = "Ilość zastosowań";
 "usages_left" = "Pozostało zastosowań";
+
+/* Gifts */
+
+"gift" = "Prezent";
+"gifts" = "Prezenty";
+"gifts_zero" = "Brak prezentów";
+"gifts_one" = "Jeden prezent";
+"gifts_few" = "$1 prezenty";
+"gifts_many" = "$1 prezentów";
+"gifts_other" = "$1 prezentów";
+
+"send_gift" = "Wyślij prezent";
+
+"gift_select" = "Wybierz prezent";
+"collections" = "Kolekcje";
+"confirm" = "Potwierdzenie";
+"as_anonymous" = "Anonimowo";
+"gift_your_message" = "Twoja wiadomość";
+
+"free_gift" = "Bezpłatnie";
+"coins" = "Głosy";
+"coins_zero" = "0 głosów";
+"coins_one" = "Jeden głos";
+"coins_few" = "$1 głosy";
+"coins_many" = "$1 głosów";
+"coins_other" = "$1 głosów";
+
+"comment" = "Komentarz";
+"sender" = "Nadawca";
 
 /* Errors */
 
