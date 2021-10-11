@@ -417,14 +417,71 @@
 "ui_settings_rating_show" = "Pokazati";
 "ui_settings_rating_hide" = "Sakriti";
 
+"usages_total" = "Broj upotreba";
+"usages_left" = "Korišćenja je ostalo";
+
+/* Gifts */
+
+"gift" = "Poklon";
+"gifts" = "Pokloni";
+"gifts_zero" = "Nema poklona";
+"gifts_one" = "Јеdan poklon";
+"gifts_other" = "Ostvariti poklon od strane $1";
+
+"send_gift" = "Poslato je poklona";
+
+"gift_select" = "Izabrati poklon";
+"collections" = "Kolekcije";
+"confirm" = "Podtvrditi";
+"as_anonymous" = "Ja sam anoniman";
+"gift_your_message" = "Vaša poruka";
+
+"free_gift" = "Besplatan";
+"coins" = "Glasovi";
+"coins_zero" = "0 glasova";
+"coins_one" = "Jedan glas";
+"coins_other" = "Glasati od strane $1";
+
+"comment" = "Komentarije";
+"sender" = "Pošiljalac";
+
 /* Errors */
 
-"error_1" = "Nije taćan zahtev";
-"error_2" = "Korisnićko ime ili lozinka nisu tačni";
-"error_3" = "Nije ovlašćen";
-"error_4" = "Ne postoji onog korisnika";
-"information_-1" = "Operacija je uspešno završena";
-"information_-2" = "Prijavili ste uspešno";
+"error_1" = "Pogrešan upit";
+"error_2" = "Korisničko ime ili šifra ne postoji";
+"error_3" = "Neovlaščen";
+"error_4" = "Ovaj korisnik ne postoji";
+"information_-1" = "Bravo";
+"information_-2" = "Uspešno ste prijavili";
 
-"no_data" = "Nema podatka";
-"no_data_description" = "Nedostaju podaci u ovoj odredbi.";
+"no_data" = "Nema podataka";
+"no_data_description" = "Nema podataka u vezi.";
+
+"error" = "Izvinjavam se";
+"error_shorturl" = "Ova kratka adresa je već nalazi u vlasništvu.";
+"error_segmentation" = "Pogrešna segmentacija";
+"error_upload_failed" = "Otpremanje fotografije, ili slike nije moguće";
+"error_old_password" = "Stara šifra ne odgovara";
+"error_new_password" = "Nova šifra ne odgovara";
+"error_shorturl_incorrect" = "Kratka adresa sadrži pogrešan format.";
+
+"forbidden" = "Postoji greška u pristupu";
+"forbidden_comment" = "Podešavanja privatnosti korisnika ne dozvoli Vama da otvorite njegovu stranicu.";
+
+"changes_saved" = "Podešavanja su sačuvana";
+"changes_saved_comment" = "Novi podaci će se pojaviti na Vašoj stranici";
+
+"photo_saved" = "Слика је сачувана";
+"photo_saved_comment" = "Нова слика профила ће се појавити на Вашој страници";
+
+/* Admin actions */
+
+"login_as" = "Ulogati kao $1";
+"ban_user_action" = "Blokirati korisnika";
+"warn_user_action" = "Upozoriti korisnika";
+
+/* Paginator */
+
+"paginator_back" = "Vraćati se";
+"paginator_page" = "Stranica br. $1";
+"paginator_next" = "Sledeća stranica";

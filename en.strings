@@ -401,17 +401,42 @@
 "vouchers" = "Vouchers";
 "have_voucher" = "Have voucher";
 "voucher_token" = "Voucher token";
-"voucher_activators" = "Activators";
+"voucher_activators" = "Users";
 "voucher_explanation" = "Enter the voucher serial number. It is usually listed on the receipt or in the message.";
 "voucher_explanation_ex" = "Note that vouchers can expire and can only be used once.";
 "invalid_voucher" = "Voucher is invalid";
 "voucher_bad" = "You may have entered the wrong serial number, already used voucher, or the voucher has simply expired.";
 "voucher_good" = "Voucher activated";
-"voucher_redeemed" = "The voucher has been successfully activated. You will receive points, but you will no longer be able to activate the voucher with this code.";
+"voucher_redeemed" = "The voucher has been successfully activated. You will receive points, but you will no longer be able to activate it with this code.";
 "redeem" = "Redeem voucher";
 "deactivate" = "Deactivate";
 "usages_total" = "Number of uses";
 "usages_left" = "Uses left";
+
+/* Gifts */
+
+"gift" = "Gift";
+"gifts" = "Gifts";
+"gifts_zero" = "Zero gifts";
+"gifts_one" = "One gift";
+"gifts_other" = "$1 gifts";
+
+"send_gift" = "Send gift";
+
+"gift_select" = "Select gift";
+"collections" = "Collections";
+"confirm" = "Confirm";
+"as_anonymous" = "As anonymous";
+"gift_your_message" = "Your message";
+
+"free_gift" = "Free";
+"coins" = "Voices";
+"coins_zero" = "0 voices";
+"coins_one" = "One voice";
+"coins_other" = "$1 voices";
+
+"comment" = "Comment";
+"sender" = "Sender";
 
 /* Errors */
 

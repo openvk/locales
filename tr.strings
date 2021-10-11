@@ -390,6 +390,46 @@
 "time_today" = "bugün";
 "time_yesterday" = "dün";
 
+"vouchers" = "Fişler";
+"have_voucher" = "Fişi var";
+"voucher_token" = "Fiş tokeni";
+"voucher_activators" = "Kullanıcılar";
+"voucher_explanation" = "Fiş seri numarasını girin. Genellikle alıcıda ya da mesajda listelenmiştir.";
+"voucher_explanation_ex" = "Fişlerin tek seferlik olduğunu ve sürelerinin dolabileceğini unutmayın.";
+"invalid_voucher" = "Fiş geçersiz.";
+"voucher_bad" = "Yanlış seri numarasını girmiş olabilirsiniz, bu fişi zaten kullanmış olabilirsiniz, ya da basitçe fişin süresi dolmuş olabilir.";
+"voucher_good" = "Fiş etkinleştirildi";
+"voucher_redeemed" = "Fiş başarıyla etkinleştirildi. Puan alacaksınız, ama artık bu kodla etkinleştiremeyeceksiniz.";
+"redeem" = "Fiş alın";
+"deactivate" = "Devre dışı bırak";
+"usages_total" = "Kullanım sayısı";
+"usages_left" = "Kalan kullanım";
+
+/* Gifts */
+
+"gift" = "Hediye";
+"gifts" = "Hediyeler";
+"gifts_zero" = "0 hediye";
+"gifts_one" = "1 hediye";
+"gifts_other" = "$1 hediye";
+
+"send_gift" = "Hediye gönder";
+
+"gift_select" = "Hediye seç";
+"collections" = "Koleksiyonlar";
+"confirm" = "Onayla";
+"as_anonymous" = "Anonim olarak";
+"gift_your_message" = "Mesajınız";
+
+"free_gift" = "Ücretsiz";
+"coins" = "Voice'ler";
+"coins_zero" = "0 voice";
+"coins_one" = "1 voice";
+"coins_other" = "$1 voice";
+
+"comment" = "Yorum";
+"sender" = "Gönderen";
+
 /* Errors */
 
 "error_1" = "Yanlış sorgu";
