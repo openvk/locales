@@ -54,4 +54,9 @@ list:
     name: "Turkish"
     native_name: "Türkçe"
     author: "Bedirhan Kurt (WindOWZ)"
+  - code: "kk"
+    flag: "kz"
+    name: "Kazakh"
+    native_name: "Қазақша"
+    author: "ayaao.p"
 
