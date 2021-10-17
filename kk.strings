@@ -1,549 +1,549 @@
-"__locale" = "ru_UA.utf8;ru_RU.UTF-8;Rus";
+"__locale" = "kk_KZ.UTF-8;Kaz";
 "__WinEncoding" = "Windows-1251";
 
 /* Check for https://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html */
 /* Main page */
 
 
-"home" = "Главная";
-"welcome" = "Добро пожаловать";
+"home" = "Басты бет";
+"welcome" = "Қош келдіңіз!";
 
 /* Login */
 
-"log_in" = "Вход";
-"password" = "Пароль";
-"registration" = "Регистрация";
-"forgot_password" = "Забыли пароль?";
+"log_in" = "Логин";
+"password" = "Құпиясөз";
+"registration" = "Тіркелу";
+"forgot_password" = "Құпиясөзіңізді ұмыттыңыз ба?";
 
 /* Profile information */
 
-"select_language" = "Выбрать язык";
-"edit" = "Редактировать";
-"birth_date" = "День рождения";
-"registration_date" = "Дата регистрации";
-"hometown" = "Родной город";
-"this_is_you" = "это Вы";
-"edit_page" = "Редактировать страницу";
-"edit_group" = "Редактировать группу";
-"change_status" = "изменить статус";
-"name" = "Имя";
-"surname" = "Фамилия";
-"gender" = "Пол";
-"male" = "мужской";
-"female" = "женский";
-"description" = "Описание";
-"save" = "Сохранить";
-"main_information" = "Основная информация";
-"nickname" = "Никнейм";
-"online" = "Онлайн";
-"was_online" = "был в сети";
-"was_online_m" = "был в сети";
-"was_online_f" = "была в сети";
-"all_title" = "Все";
-"information" = "Информация";
-"status" = "Статус";
-"no_information_provided" = "Информация отсутствует.";
-"deceased_person" = "Страница покойного человека";
-"none" = "отсутствует";
-"years" = "лет";
-"send" = "Отправить";
+"select_language" = "Тілді таңдау";
+"edit" = "Өңдеу";
+"birth_date" = "Туған күні";
+"registration_date" = "Тіркелген күні";
+"hometown" = "Туған жері";
+"this_is_you" = "бұл Сіз";
+"edit_page" = "Бетті өңдеу";
+"edit_group" = "Топты өңдеу";
+"change_status" = "Күйді өзгерту";
+"name" = "Аты";
+"surname" = "Әкесінің аты";
+"gender" = "Жынысы";
+"male" = "ер";
+"female" = "қыз";
+"description" = "Сипаттама";
+"save" = "Сақтау";
+"main_information" = "Басты ақпарат";
+"nickname" = "Лақап ат";
+"online" = "Желіде";
+"was_online" = "Желіде болған";
+"was_online_m" = "Желіде болған";
+"was_online_f" = "желіде болған";
+"all_title" = "Барлығы";
+"information" = "Ақпарат";
+"status" = "Күйі";
+"no_information_provided" = "Ақпарат берілген жоқ.";
+"deceased_person" = "Қайтқан кісі";
+"none" = "ештеңе";
+"years" = "ж.";
+"send" = "Жіберу";
 
-"relationship" = "Семейное положение";
+"relationship" = "Отбасылық жағдай";
 
-"relationship_0" = "Не выбрано";
-"relationship_1" = "Не женат";
-"relationship_2" = "Встречаюсь";
-"relationship_3" = "Помолвлен";
-"relationship_4" = "Женат";
-"relationship_5" = "В гражданском браке";
-"relationship_6" = "Влюблен";
-"relationship_7" = "Всё сложно";
-"relationship_8" = "В активном поиске";
+"relationship_0" = "Таңдалған жоқ";
+"relationship_1" = "Бойдақ";
+"relationship_2" = "Кездесемін";
+"relationship_3" = "Атастырылған";
+"relationship_4" = "Үйленгенмін";
+"relationship_5" = "Азаматтық некедемін";
+"relationship_6" = "Ғашықпын";
+"relationship_7" = "Барлығы күрделі";
+"relationship_8" = "Белсенді іздеудемін";
 
-"politViews" = "Полит. взгляды";
+"politViews" = "Саяси көзқ-тар";
 
-"politViews_0" = "Не выбраны";
-"politViews_1" = "Индифферентные";
-"politViews_2" = "Коммунистические";
-"politViews_3" = "Социалистические";
-"politViews_4" = "Умеренные";
-"politViews_5" = "Либеральные";
-"politViews_6" = "Консервативные";
-"politViews_7" = "Монархические";
-"politViews_8" = "Ультраконсервативные";
-"politViews_9" = "Либертарианские";
+"politViews_0" = "Таңдалған";
+"politViews_1" = "Бейтарап";
+"politViews_2" = "Комунистік";
+"politViews_3" = "Социалистің";
+"politViews_4" = "Ұстамды";
+"politViews_5" = "Либералдық";
+"politViews_6" = "Кертартпа";
+"politViews_7" = "Монархиялық";
+"politViews_8" = "Әсіре кертартпа";
+"politViews_9" = "Либертарияндық";
 
-"contact_information" = "Контактная информация";
+"contact_information" = "Байланыстар";
 
-"email" = "Электронная почта";
-"phone" = "Телефон";
+"email" = "Email";
+"phone" = "Ұялы телефон";
 "telegram" = "Telegram";
-"city" = "Город";
-"address" = "Адрес";
+"city" = "Қала";
+"address" = "Мекен-жай";
 
-"personal_information" = "Личная информация";
+"personal_information" = "Мүдделер";
 
-"interests" = "Интересы";
-"favorite_music" = "Любимая музыка";
-"favorite_films" = "Любимые фильмы";
-"favorite_shows" = "Любимые ТВ-шоу";
-"favorite_books" = "Любимые книги";
-"favorite_quotes" = "Любимые цитаты";
-"information_about" = "О себе";
+"interests" = "Қызығушылықтар";
+"favorite_music" = "Сүйікті музыка";
+"favorite_films" = "Сүйікті фимльмдер";
+"favorite_shows" = "Сүйікті телешоудар";
+"favorite_books" = "Сүйікті кітаптар";
+"favorite_quotes" = "Сүйікті дәйексөздер";
+"information_about" = "Өзім туралы";
 
-"updated_at" = "Обновлено $1";
+"updated_at" = "Соңғы жаңартылған: $1";
 
 /* Wall */
 
-"post_writes_m" = "написал";
-"post_writes_f" = "написала";
-"post_writes_g" = "опубликовали";
-"wall" = "Стена";
-"post" = "Запись";
-"write" = "Написать";
-"publish" = "Опубликовать";
-"delete" = "Удалить";
-"comments" = "Комментарии";
-"share" = "Поделиться";
-"pin" = "Закрепить";
-"unpin" = "Открепить";
-"pinned" = "закреплено";
-"comments_tip" = "Будьте первым, кто оставит комментарий!";
-"your_comment" = "Ваш комментарий";
-"comments" = "Комментарии";
-"shown" = "Показано";
-"x_out_of" = "$1 из";
-"wall_zero" = "нет записей";
-"wall_one" = "единственная запись";
-"wall_few" = "$1 записи";
-"wall_many" = "$1 записей";
-"wall_other" = "$1 записей";
+"post_writes_m" = "жазды";
+"post_writes_f" = "жазды";
+"post_writes_g" = "жариялаған";
+"wall" = "Қабырға";
+"post" = "Жазба";
+"write" = "Жазу";
+"publish" = "Жариялау";
+"delete" = "Жою";
+"comments" = "Пікірлер";
+"share" = "Бөлісу";
+"pin" = "Бекіту";
+"unpin" = "Бекітпеу";
+"pinned" = "бекітілді";
+"comments_tip" = "Осы жазбаға бірінші болып пікір жазыңыз!";
+"your_comment" = "Пікіріңіз";
+"comments" = "Пікірлер";
+"shown" = "Көрсетілген";
+"x_out_of" = "$1-";
+"wall_zero" = "жазбалар жоқ";
+"wall_one" = "$1 жазба";
+"wall_few" = "$1 жазба";
+"wall_many" = "$1 жазба";
+"wall_other" = "$1 жазба";
 
-"all_news" = "Все новости";
-"posts_per_page" = "Количество записей на странице";
+"all_news" = "Барлық жаңалықтар";
+"posts_per_page" = "Бір беттегі жазбалар саны";
 
-"attachment" = "Вложение";
-"post_as_group" = "От имени сообщества";
-"add_signature" = "Подпись автора";
-"contains_nsfw" = "Содержит NSFW-контент";
-"nsfw_warning" = "Данный пост может содержать 18+ контент";
-"report" = "Пожаловаться";
-"attach_photo" = "Прикрепить фото";
-"no_posts_abstract" = "Здесь никто ничего не написал... Пока.";
-"attach_no_longer_available" = "Это вложение больше недоступно.";
-"open_post" = "Открыть запись";
-"version_incompatibility" = "Не удалось отобразить это вложение. Возможно, база данных несовместима с текущей версией OpenVK.";
+"attachment" = "Тіркемелер";
+"post_as_group" = "Топ ретінде жазу";
+"add_signature" = "Автордың қолтаңбасы";
+"contains_nsfw" = "NSFW-контент бар";
+"nsfw_warning" = "Бұл жазбада NSFW-контент болуы мүмкін";
+"report" = "Хабарлау";
+"attach_photo" = "Сурет тіркеу";
+"no_posts_abstract" = "Бұл жерде ешкім ештеңе жазбады.";
+"attach_no_longer_available" = "Бұл тіркеме бұдан былай қол жетімді емес.";
+"open_post" = "Жазбаны ашу";
+"version_incompatibility" = "Бұл тіркемені көрсете алмадық. Мүмкін мәліметтер базасы OpenVK-дің қазіргі нұсқасымен үйлеспейді.";
 
 /* Friends */
 
-"friends" = "Друзья";
-"followers" = "Подписчики";
-"follower" = "Подписчик";
-"login_as" = "Войти как";
-"ban_fast" = "Забанить";
-"adm_notify" = "Предупредить";
-"friends_add" = "Добавить в друзья";
-"friends_delete" = "Удалить из друзей";
-"friends_reject" = "Отменить заявку";
-"friends_accept" = "Принять заявку";
-"send_message" = "Отправить сообщение";
-"incoming_req" = "Подписчики";
-"outcoming_req" = "Заявки";
-"req" = "Заявки";
+"friends" = "Достар";
+"followers" = "Жазылмандар";
+"follower" = "Жазылман";
+"login_as" = "$1 ретінде кіру";
+"ban_fast" = "Бұғаттау";
+"adm_notify" = "Ескерту";
+"friends_add" = "Достарыма қосу";
+"friends_delete" = "Достарымнан жою";
+"friends_reject" = "Өтінімді қабылдамау";
+"friends_accept" = "Өтінімді қабылдау";
+"send_message" = "Хабарлама жазу";
+"incoming_req" = "Жазылушылар";
+"outcoming_req" = "Өтінімдер";
+"req" = "Өтінімдер";
 
-"firends_zero" = "Ни одного друга";
-"friends_one" = "$1 друг";
-"friends_few" = "$1 друга";
-"friends_many" = "$1 друзей";
-"friends_other" = "$1 друзей";
+"firends_zero" = "Достарыңыз жоқ";
+"friends_one" = "$1 дос";
+"friends_few" = "$1 дос";
+"friends_many" = "$1 дос";
+"friends_other" = "$1 дос";
 
-"followers_zero" = "Ни одного подписчика";
-"followers_one" = "$1 подписчик";
-"followers_few" = "$1 подписчика";
-"followers_many" = "$1 подписчиков";
-"followers_other" = "$1 подписчиков";
+"followers_zero" = "Жазылмандар жоқ";
+"followers_one" = "$1 жазылман";
+"followers_few" = "$1 жазылман";
+"followers_many" = "$1 жазылман";
+"followers_other" = "$1 жазылман";
 
-"subscriptions_zero" = "Ни одной подписки";
-"subscriptions_one" = "$1 подписка";
-"subscriptions_few" = "$1 подписки";
-"subscriptions_many" = "$1 подписок";
-"subscriptions_other" = "$1 подписок";
+"subscriptions_zero" = "Жазылым жоқ";
+"subscriptions_one" = "$1 жазылым";
+"subscriptions_few" = "$1 жазылым";
+"subscriptions_many" = "$1 жазылым";
+"subscriptions_other" = "$1 жазылым";
 
 /* Group */
 
-"name_group" = "Название";
-"subscribe" = "Подписаться";
-"unsubscribe" = "Отписаться";
-"subscriptions" = "Подписки";
-"join_community" = "Вступить в группу";
-"leave_community" = "Выйти из группы";
-"min_6_community" = "Название должно быть не менее 6 символов";
-"participants" = "Участники";
-"groups" = "Группы";
-"meetings" = "Встречи";
-"create_group" = "Создать группу";
-"group_managers" = "Руководство";
-"group_type" = "Тип группы";
-"group_type_open" = "Это открытая группа. В неё может вступить любой желающий.";
-"group_type_closed" = "Это закрытая группа. Для вступления необходимо подавать заявку.";
-"creator" = "Создатель";
+"name_group" = "Атауы";
+"subscribe" = "Жазылу";
+"unsubscribe" = "Топтан шығу";
+"subscriptions" = "Жазылымдар";
+"join_community" = "Қауымға кіру";
+"leave_community" = "Қауымнан шығу";
+"min_6_community" = "Топтың аты тым болмаса 6 әріптен көп болу керек";
+"participants" = "Қатысушылар";
+"groups" = "Топтар";
+"meetings" = "Кездесулер";
+"create_group" = "Топ құру";
+"group_managers" = "Менеджерлер";
+"group_type" = "Топтың типі";
+"group_type_open" = "Бұл ашық топ, яғни оған әркім кіре алады.";
+"group_type_closed" = "Бұл жабық топ, кіру үшін өтінім жазуыңыз қажет.";
+"creator" = "Құрған";
 
-"role" = "Роль";
-"administrator" = "Администратор";
-"promote_to_admin" = "Повысить до администратора";
-"devote" = "Разжаловать";
-"group_allow_post_for_everyone" = "Разрешить публиковать записи всем";
+"role" = "Рөлі";
+"administrator" = "Админ";
+"promote_to_admin" = "Админ қылдыру";
+"devote" = "Арнау";
+"group_allow_post_for_everyone" = "Бәріне жазба жазуға рұқсат беру";
 "statistics" = "Статистика";
 
-"participants_zero" = "Ни одного участника";
-"participants_one" = "Один участник";
-"participants_few" = "$1 участника";
-"participants_many" = "$1 участников";
-"participants_other" = "$1 участников";
+"participants_zero" = "Қатысушылар жоқ";
+"participants_one" = "$1 қатысушы";
+"participants_few" = "$1 қатысушы";
+"participants_many" = "$1 қатысушы";
+"participants_other" = "$1 қатысушы";
 
-"groups_zero" = "Ни одной группы";
-"groups_one" = "Одна группа";
-"groups_few" = "$1 группы";
-"groups_many" = "$1 групп";
-"groups_other" = "$1 групп";
+"groups_zero" = "Топтар жоқ";
+"groups_one" = "$1 топ";
+"groups_few" = "$1 топ";
+"groups_many" = "$1 топ";
+"groups_other" = "$1 топ";
 
-"meetings_zero" = "Ни одной встречи";
-"meetings_one" = "Одна встреча";
-"meetings_few" = "$1 встречи";
-"meetings_many" = "$1 встреч";
-"meetings_other" = "$1 встреч";
+"meetings_zero" = "Кездесулер жоқ";
+"meetings_one" = "$1 кездесу";
+"meetings_few" = "$1 кездесу";
+"meetings_many" = "$1 кездесу";
+"meetings_other" = "$1 кездесу";
 
 /* Albums */
 
-"create" = "Создать";
-"albums" = "Альбомы";
-"create_album" = "Создать альбом";
-"edit_album" = "Редактировать альбом";
-"creating_album" = "Создание альбома";
-"upload_photo" = "Загрузить фотографию";
-"photo" = "Фотография";
-"upload_button" = "Загрузить";
+"create" = "Жасау";
+"albums" = "Альбомдар";
+"create_album" = "Альбом жасау";
+"edit_album" = "Альбомды өңдеу";
+"creating_album" = "Альбом жасалуда";
+"upload_photo" = "Фото жүктеу";
+"photo" = "Фото";
+"upload_button" = "Жүктеу";
 
-"open_original" = "Открыть оригинал";
+"open_original" = "Түпнұсқасын ашу";
 
-"avatar_album" = "Фотографии со страницы";
-"wall_album" = "Фотографии со стены";
+"avatar_album" = "Парақшадағы фотолар";
+"wall_album" = "Қабырғадағы фотолар";
 
-"albums_zero" = "Ни одного альбома";
-"albums_one" = "Один альбом";
-"albums_few" = "$1 альбома";
-"albums_many" = "$1 альбомов";
-"albums_other" = "$1 альбомов";
+"albums_zero" = "Альбомдар жоқ";
+"albums_one" = "$1 альбом";
+"albums_few" = "$1 альбом";
+"albums_many" = "$1 альбом";
+"albums_other" = "$1 альбом";
 
 /* Notes */
 
-"notes" = "Заметки";
-"note" = "Заметка";
-"name_note" = "Название";
-"text_note" = "Содержание";
-"create_note" = "Создать заметку";
-"actions" = "Действия";
-"feed" = "Новости";
-"publish_post" = "Добавить запись";
+"notes" = "Жолжазбалар";
+"note" = "Жолжазба";
+"name_note" = "Тақырыбы";
+"text_note" = "Мазмұны";
+"create_note" = "Жолжазба жазу";
+"actions" = "Әрекеттер";
+"feed" = "Жаңалықтар";
+"publish_post" = "жазба жариялау";
 
-"notes_zero" = "Ни одной заметки";
-"notes_one" = "Одна заметка";
-"notes_few" = "$1 заметки";
-"notes_many" = "$1 заметок";
-"notes_other" = "$1 заметок";
+"notes_zero" = "Жолжазбалар жоқ";
+"notes_one" = "$1 жолжазба";
+"notes_few" = "$1 жолжазба";
+"notes_many" = "$1 жолжазба";
+"notes_other" = "$1 жолжазба";
 
 /* Menus */
 
-"edit_button" = "ред.";
-"my_page" = "Моя Страница";
-"my_friends" = "Мои Друзья";
-"my_photos" = "Мои Фотографии";
-"my_videos" = "Мои Видеозаписи";
-"my_messages" = "Мои Сообщения";
-"my_notes" = "Мои Заметки";
-"my_groups" = "Мои Группы";
-"my_feed" = "Мои Новости";
-"my_feedback" = "Мои Ответы";
-"my_settings" = "Мои Настройки";
-"bug_tracker" = "Баг-трекер";
+"edit_button" = "өңдеу";
+"my_page" = "Парақшам";
+"my_friends" = "Достарым";
+"my_photos" = "Фотоларым";
+"my_videos" = "Видеожазбаларым";
+"my_messages" = "Хабарламаларым";
+"my_notes" = "Жолжазбаларым";
+"my_groups" = "Топтарым";
+"my_feed" = "Жаңалықтарым";
+"my_feedback" = "Жауаптарым";
+"my_settings" = "Баптауларым";
+"bug_tracker" = "Баг-ұстаушы";
 
-"menu_login" = "Вход";
-"menu_registration" = "Регистрация";
-"menu_help" = "Помощь";
+"menu_login" = "Кіру";
+"menu_registration" = "Тіркелу";
+"menu_help" = "Көмек";
 
-"header_home" = "главная";
-"header_groups" = "группы";
-"header_donate" = "поддержать";
-"header_people" = "люди";
-"header_invite" = "пригласить";
-"header_help" = "помощь";
-"header_log_out" = "выйти";
-"header_search" = "Поиск";
+"header_home" = "басты бет";
+"header_groups" = "топтар";
+"header_donate" = "садақа беру";
+"header_people" = "кісілер";
+"header_invite" = "шақыру";
+"header_help" = "көмек";
+"header_log_out" = "шығу";
+"header_search" = "Іздеу";
 
-"header_login" = "вход";
-"header_registration" = "регистрация";
+"header_login" = "кіру";
+"header_registration" = "тіркелу";
 
 "footer_blog" = "блог";
-"footer_help" = "помощь";
-"footer_developers" = "разработчикам";
-"footer_choose_language" = "выбрать язык";
-"footer_privacy" = "приватность";
+"footer_help" = "көмек";
+"footer_developers" = "әзірлеушілер";
+"footer_choose_language" = "тіл таңдау";
+"footer_privacy" = "Құпиялық";
 
-"notes_zero" = "Ни одной заметки";
-"notes_one" = "Одна заметка";
-"notes_few" = "$1 заметки";
-"notes_many" = "$1 заметок";
-"notes_other" = "$1 заметок";
+"notes_zero" = "Жолжазбалар жоқ";
+"notes_one" = "$1 жолжазба";
+"notes_few" = "$1 жолжазба";
+"notes_many" = "$1 жолжазба";
+"notes_other" = "$1 жолжазба";
 
 /* Settings */
 
-"main" = "Основное";
-"contacts" = "Контакты";
+"main" = "Бастысы";
+"contacts" = "Байланыстарым";
 "avatar" = "Аватар";
-"privacy" = "Приватность";
-"interface" = "Внешний вид";
+"privacy" = "Құпиялық";
+"interface" = "Интерфейс";
 
-"profile_picture" = "Изображение страницы";
+"profile_picture" = "Парақша суреті";
 
-"picture" = "Изображение";
+"picture" = "Сурет";
 
-"change_password" = "Изменить пароль";
-"old_password" = "Старый пароль";
-"new_password" = "Новый пароль";
-"repeat_password" = "Повторите пароль";
+"change_password" = "Құпиясөз өзгерту";
+"old_password" = "Бұрынғы құпиясөз";
+"new_password" = "Жаңа құпиясөз";
+"repeat_password" = "Қайталап жазыңызшы";
 
-"avatars_style" = "Отображение аватар";
-"style" = "Стиль";
+"avatars_style" = "Аватар стилі";
+"style" = "Стилі";
 
-"default" = "По умолчанию";
-"cut" = "Обрезка";
-"round_avatars" = "Круглый аватар";
+"default" = "Әдепкі";
+"cut" = "Кесілген";
+"round_avatars" = "Дөңгелектелген";
 
-"search_for_groups" = "Поиск групп";
-"search_for_people" = "Поиск людей";
-"search_button" = "Найти";
-"results_zero" = "Ни одного результата";
-"results_one" = "Один результат";
-"results_few" = "$1 результата";
-"results_many" = "$1 результатов";
-"results_other" = "$1 результатов";
+"search_for_groups" = "Топтар іздеу";
+"search_for_people" = "Кісілер іздеу";
+"search_button" = "Іздеу";
+"results_zero" = "Нәтиже жоқ";
+"results_one" = "$1 нәтиже";
+"results_few" = "$1 нәтиже";
+"results_many" = "$1 нәтиже";
+"results_other" = "$1 нәтиже";
 
-"privacy_setting_access_page" = "Кому в интернете видно мою страницу";
-"privacy_setting_read_info" = "Кому видно основную информацию моей страницы";
-"privacy_setting_see_groups" = "Кому видно мои группы и встречи";
-"privacy_setting_see_photos" = "Кому видно мои фотографии";
-"privacy_setting_see_videos" = "Кому видно мои видеозаписи";
-"privacy_setting_see_notes" = "Кому видно мои заметки";
-"privacy_setting_see_friends" = "Кому видно моих друзей";
-"privacy_setting_add_to_friends" = "Кто может называть меня другом";
-"privacy_setting_write_wall" = "Кто может писать у меня на стене";
-"privacy_value_anybody" = "Все желающие";
-"privacy_value_anybody_dative" = "Всем желающим";
-"privacy_value_users" = "Пользователям OpenVK";
-"privacy_value_friends" = "Друзья";
-"privacy_value_friends_dative" = "Друзьям";
-"privacy_value_only_me_and_super_capite" = "Я и Виталина Павленко";
-"privacy_value_only_me_and_super_capite_dative" = "Мне и Виталине Павленко";
-"privacy_value_super_capite" = "Виталине Павленко";
+"privacy_setting_access_page" = "Кім менің парақшамды көре алады";
+"privacy_setting_read_info" = "Кім менің парақшамдағы басты ақпаратты көре алады";
+"privacy_setting_see_groups" = "Кім менің топтарым мен кездесулерімді көре алады";
+"privacy_setting_see_photos" = "Кім менің фотоларымды көре алады";
+"privacy_setting_see_videos" = "Кім менің видеожазбаларымды көре алады";
+"privacy_setting_see_notes" = "Кім менің жолжазбаларымды көре алады";
+"privacy_setting_see_friends" = "Кім менің достарларымды көре алады";
+"privacy_setting_add_to_friends" = "Кім мені достарыма қоса алады";
+"privacy_setting_write_wall" = "Кім менің қабырғама жазба жаза алады";
+"privacy_value_anybody" = "Әркім";
+"privacy_value_anybody_dative" = "Әркім";
+"privacy_value_users" = "OpenVK қолданушылары";
+"privacy_value_friends" = "Достарым";
+"privacy_value_friends_dative" = "Достарым";
+"privacy_value_only_me_and_super_capite" = "Мен және админдар";
+"privacy_value_only_me_and_super_capite_dative" = "Маған және админдарға";
+"privacy_value_super_capite" = "Админға";
 
-"your_email_address" = "Адрес Вашей электронной почты";
-"your_page_address" = "Адрес Вашей страницы";
-"page_address" = "Адрес страницы";
-"current_email_address" = "Текущий адрес";
-"page_id" = "ID страницы";
-"you_can_also" = "Вы также можете";
-"delete_your_page" = "удалить свою страницу";
-"delete_album" = "удалить альбом";
+"your_email_address" = "Сіздің Email-мекенжайыңыз";
+"your_page_address" = "Сіздің мекен-жай бетіңіз";
+"page_address" = "Мекенжай беті";
+"current_email_address" = "Қазіргі Email-мекенжайы";
+"page_id" = "Парақшаның ID-cі";
+"you_can_also" = "Сіз одан басқа";
+"delete_your_page" = "парақшаңызды жоя аласыз";
+"delete_album" = "альбомды жоя аласыз";
 
 "ui_settings_interface" = "Интерфейс";
-"ui_settings_sidebar" = "Левое меню";
+"ui_settings_sidebar" = "Сол жақтағы меню";
 "ui_settings_rating" = "Рейтинг";
-"ui_settings_rating_show" = "Показывать";
-"ui_settings_rating_hide" = "Скрывать";
+"ui_settings_rating_show" = "Көрсету";
+"ui_settings_rating_hide" = "Жасыру";
 
 /* Sorting */
 
-"sort_randomly" = "Сортировать рандомно";
-"sort_up" = "Сортировать по дате создания вверх";
-"sort_down" = "Сортировать по дате создания вниз";
+"sort_randomly" = "Кездейсоқ сұрыптау";
+"sort_up" = "ID бойынша сұрыптау (үсті)";
+"sort_down" = "ID бойынша сұрыптау (асты)";
 
 /* Videos */
 
-"videos" = "Видеозаписи";
-"video" = "Видеозапись";
-"upload_video" = "Загрузить видео";
-"video_uploaded" = "Загружено";
-"video_updated" = "Обновлено";
-"video_link_to_yt" = "Ссылка на YT";
+"videos" = "Видеожазбалар";
+"video" = "Видеожазба";
+"upload_video" = "Видеожазба жүктеу";
+"video_uploaded" = "Жүктелді";
+"video_updated" = "Жаңартылды";
+"video_link_to_yt" = "YT сілтеме";
 
-"info_name" = "Название";
-"info_description" = "Описание";
-"info_uploaded_by" = "Загрузил";
-"info_upload_date" = "Дата загрузки";
+"info_name" = "Тақырып";
+"info_description" = "Сипаттама";
+"info_uploaded_by" = "Жүктеген:";
+"info_upload_date" = "Жүктелген күні";
 
-"videos_zero" = "Ни одной видеозаписи";
-"videos_one" = "Одна видеозапись";
-"videos_few" = "$1 видеозаписи";
-"videos_many" = "$1 видеозаписей";
-"videos_other" = "$1 видеозаписей";
+"videos_zero" = "Видеожазбалар жоқ";
+"videos_one" = "$1 видеожазба";
+"videos_few" = "$1 видеожазба";
+"videos_many" = "$1 видеожазба";
+"videos_other" = "$1 видеожазба";
 
 /* Notifications */
 
-"feedback" = "Ответы";
-"unread" = "Непрочитанное";
-"archive" = "Архив";
+"feedback" = "Жауаптар";
+"unread" = "Оқылмаған";
+"archive" = "Мұрағат";
 
-"notifications_like" = "$1 оценил вашу $2запись$3 от $4";
-"notifications_repost" = "$1 поделился(-лась) вашей $2записью$3 от $4";
-"notifications_comment_under" = "$1 оставил(-ла) комментарий под $2";
-"notifications_under_note" = "вашей $3заметкой$4";
-"notifications_under_photo" = "вашим $3фото$4";
-"notifications_under_post" = "вашей $3записью$4 от $5";
-"notifications_under_video" = "вашим $3видео$4";
-"notifications_post" = "$1 написал(-ла) $2запись$3 на вашей стене: $4";
-"notifications_appoint" = "$1 назвачил вас руководителем сообщества $2";
+"notifications_like" = "$1 сіздің $4 жазған $2жазбаңызды$3 ұнатады";
+"notifications_repost" = "$1 сіздің $4 жазған $2жазбаңызбен$3 бөлісті";
+"notifications_comment_under" = "$1 $2 жайында пікір жазды";
+"notifications_under_note" = "сіздің $3жолжазба$4";
+"notifications_under_photo" = "сіздің $3фото$4";
+"notifications_under_post" = "сіздің $5 жазған $3жазба$4";
+"notifications_under_video" = "сіздің $3видеожазба$4";
+"notifications_post" = "$1 сіздің қабырғаңызға $2жазба$3 қойды: $4";
+"notifications_appoint" = "$1 сізді қоғамның менеджері етіп тағайындады $2";
 
-"nt_liked_yours" = "понравился ваш";
-"nt_shared_yours" = "поделился(-ась) вашим";
-"nt_commented_yours" = "оставил(а) комментарий под";
-"nt_written_on_your_wall" = "написал(а) на вашей стене";
-"nt_made_you_admin" = "назначил(а) вас руководителем сообщества";
+"nt_liked_yours" = "сіздікің ұнатады";
+"nt_shared_yours" = "сіздікімен бөлісті";
+"nt_commented_yours" = "сіздікімен пікір жазды";
+"nt_written_on_your_wall" = "сіздің қабырғаңызға жазған";
+"nt_made_you_admin" = "сізді қоғамда тағайындады";
 
-"nt_from" = "от";
-"nt_yours_adjective" = "вашим";
-"nt_yours_feminitive_adjective" = "вашей";
-"nt_post_nominative" = "пост";
-"nt_post_instrumental" = "постом";
-"nt_note_instrumental" = "заметкой";
-"nt_photo_instrumental" = "фотографией";
+"nt_from" = "бастап";
+"nt_yours_adjective" = "сіздің";
+"nt_yours_feminitive_adjective" = "сіздің";
+"nt_post_nominative" = "жазба";
+"nt_post_instrumental" = "жазба";
+"nt_note_instrumental" = "жолжазба";
+"nt_photo_instrumental" = "фото";
 
 /* Time */
 
-"time_at_sp" = " в ";
-"time_just_now" = "только что";
-"time_exactly_five_minutes_ago" = "ровно 5 минут назад";
-"time_minutes_ago" = "$1 минут назад";
-"time_today" = "сегодня";
-"time_yesterday" = "вчера";
+"time_at_sp" = " сағат ";
+"time_just_now" = "жана ғана";
+"time_exactly_five_minutes_ago" = "5 минут бұрын";
+"time_minutes_ago" = "$1 минут бұрын";
+"time_today" = "бүгін";
+"time_yesterday" = "кеше";
 
-"privacy_setting_access_page" = "Кому в интернете видно мою страницу";
-"privacy_setting_read_info" = "Кому видно основную информацию моей страницы";
-"privacy_setting_see_groups" = "Кому видно мои группы и встречи";
-"privacy_setting_see_photos" = "Кому видно мои фотографии";
-"privacy_setting_see_videos" = "Кому видно мои видеозаписи";
-"privacy_setting_see_notes" = "Кому видно мои заметки";
-"privacy_setting_see_friends" = "Кому видно моих друзей";
-"privacy_setting_add_to_friends" = "Кто может называть меня другом";
-"privacy_setting_write_wall" = "Кто может писать у меня на стене";
-"privacy_value_anybody" = "Все желающие";
-"privacy_value_anybody_dative" = "Всем желающим";
-"privacy_value_users" = "Пользователям OpenVK";
-"privacy_value_friends" = "Друзья";
-"privacy_value_friends_dative" = "Друзьям";
-"privacy_value_only_me_and_super_capite" = "Только я";
-"privacy_value_only_me_and_super_capite_dative" = "Только мне";
-"privacy_value_super_capite" = "Никто";
+"privacy_setting_access_page" = "Кім менің парақшамды көре алады";
+"privacy_setting_read_info" = "Кім менің парақшамдағы басты ақпаратты көре алады";
+"privacy_setting_see_groups" = "Кім менің топтарым мен кездесулерімді көре алады";
+"privacy_setting_see_photos" = "Кім менің фотоларымды көре алады";
+"privacy_setting_see_videos" = "Кім менің видеожазбаларымды көре алады";
+"privacy_setting_see_notes" = "Кім менің жолжазбаларымды көре алады";
+"privacy_setting_see_friends" = "Кім менің достарларымды көре алады";
+"privacy_setting_add_to_friends" = "Кім мені достарыма қоса алады";
+"privacy_setting_write_wall" = "Кім менің қабырғама жазба жаза алады";
+"privacy_value_anybody" = "Әркім";
+"privacy_value_anybody_dative" = "Әркім";
+"privacy_value_users" = "OpenVK қолданушылары";
+"privacy_value_friends" = "Достарым";
+"privacy_value_friends_dative" = "Достарым";
+"privacy_value_only_me_and_super_capite" = "Өзім ғана";
+"privacy_value_only_me_and_super_capite_dative" = "Өзіме ғана";
+"privacy_value_super_capite" = "Ешкім";
 
-"your_email_address" = "Адрес Вашей электронной почты";
-"your_page_address" = "Адрес Вашей страницы";
-"page_address" = "Адрес страницы";
-"current_email_address" = "Текущий адрес";
-"page_id" = "ID страницы";
-"you_can_also" = "Вы также можете";
-"delete_your_page" = "удалить свою страницу";
-"delete_album" = "удалить альбом";
+"your_email_address" = "Сіздің Email-мекенжайыңыз";
+"your_page_address" = "Сіздің мекен-жай бетіңіз";
+"page_address" = "Мекенжай беті";
+"current_email_address" = "Қазіргі Email-мекенжайы";
+"page_id" = "Парақшаның ID-cі";
+"you_can_also" = "Сіз одан басқа";
+"delete_your_page" = "парақшаңызды жоя аласыз";
+"delete_album" = "альбомды жоя аласыз";
 
 "ui_settings_interface" = "Интерфейс";
-"ui_settings_sidebar" = "Левое меню";
+"ui_settings_sidebar" = "Сол жақтағы меню";
 "ui_settings_rating" = "Рейтинг";
-"ui_settings_rating_show" = "Показывать";
-"ui_settings_rating_hide" = "Скрывать";
+"ui_settings_rating_show" = "Көрсету";
+"ui_settings_rating_hide" = "Жасыру";
 
-"points" = "Голоса";
-"points_count" = "голосов";
-"on_your_account" = "на вашем счету";
+"points" = "Дауыстар";
+"points_count" = "дауыс";
+"on_your_account" = "сіздің шотыңызда";
 
-"vouchers" = "Ваучеры";
-"have_voucher" = "Есть ваучер";
-"voucher_token" = "Код ваучера";
-"voucher_activators" = "Воспользовавшиеся";
-"voucher_explanation" = "Введите серийный номер ваучера. Обычно он указан в чеке или в сообщении.";
-"voucher_explanation_ex" = "Обратите внимание, что ваучеры могут истекать и воспользоваться ими можно только один раз.";
-"invalid_voucher" = "Ваучер недействительный";
-"voucher_bad" = "Возможно, вы ввели неверный серийный номер, уже использовали данный ваучер или же он просто истёк.";
-"voucher_good" = "Ваучер активирован";
-"voucher_redeemed" = "Ваучер был успешно активирован. Вам будут начислены голоса, но этим кодом вы больше не сможете активировать его.";
-"redeem" = "Активировать ваучер";
-"deactivate" = "Деактивировать";
-"usages_total" = "Количество использований";
-"usages_left" = "Осталось использований";
+"vouchers" = "Ваучерлер";
+"have_voucher" = "Ваучер бар";
+"voucher_token" = "Ваучер коды";
+"voucher_activators" = "Қолданғандар";
+"voucher_explanation" = "Ваучердің сериялық нөмірін енгізіңіз. Ол әдетте түбіртекте немесе хабарламада көрсетіледі.";
+"voucher_explanation_ex" = "Естеріңізге сала кетейік, ваучерлердің мерзімі аяқталуы мүмкін, және оларды тек бір рет қолдануға болады.";
+"invalid_voucher" = "Ваучер жарамсыз";
+"voucher_bad" = "Сіз қате сериялық нөмір енгізген боларсыз, ваучерді қолдандыңыз немесе ваучердің мерзімі бітті.";
+"voucher_good" = "Ваучер белсендірілді";
+"voucher_redeemed" = "Ваучер сәтті қосылды. Сіз ұпай аласыз, бірақ оны енді осы кодпен белсендіре алмайсыз.";
+"redeem" = "Ваучерді сатып алу";
+"deactivate" = "Өшіру";
+"usages_total" = "Қолдану саны";
+"usages_left" = "Қалған қолдану";
 
 /* Gifts */
 
-"gift" = "Подарок";
-"gifts" = "Подарки";
-"gifts_zero" = "Нет подарков";
-"gifts_one" = "Один подарок";
-"gifts_few" = "$1 подарка";
-"gifts_many" = "$1 подарков";
-"gifts_other" = "$1 подарков";
+"gift" = "Сыйлық";
+"gifts" = "Сыйлықтар";
+"gifts_zero" = "Нөл сыйлық";
+"gifts_one" = "Бір сыйлық";
+"gifts_few" = "$1 сыйлық";
+"gifts_many" = "$1 сыйлық";
+"gifts_other" = "$1 сыйлық";
 
-"send_gift" = "Отправить подарок";
+"send_gift" = "Сыйлық жіберу";
 
-"gift_select" = "Выбрать подарок";
-"collections" = "Коллекции";
-"confirm" = "Подтверждение";
-"as_anonymous" = "Анонимно";
-"gift_your_message" = "Ваше сообщение";
+"gift_select" = "Сыйлық таңдау";
+"collections" = "Жинақтар";
+"confirm" = "Растау";
+"as_anonymous" = "Аноним ретінде";
+"gift_your_message" = "Сіздің хабарламаңыз";
 
-"free_gift" = "Бесплатно";
-"coins" = "Голоса";
-"coins_zero" = "0 голосов";
-"coins_one" = "Один голос";
-"coins_few" = "$1 голоса";
-"coins_many" = "$1 голосов";
-"coins_other" = "$1 голосов";
+"free_gift" = "Тегін";
+"coins" = "Дауыстар";
+"coins_zero" = "Нөл дауыс";
+"coins_one" = "Бір дауыс";
+"coins_few" = "$1 дауыс";
+"coins_many" = "$1 дауыс";
+"coins_other" = "$1 дауыс";
 
-"comment" = "Комментарий";
-"sender" = "Отправитель";
+"comment" = "Пікір";
+"sender" = "Жіберуші";
 
 /* Errors */
 
-"error_1" = "Некорректный запрос";
-"error_2" = "Неверный логин или пароль";
-"error_3" = "Не авторизован";
-"error_4" = "Пользователь не существует";
-"information_-1" = "Операция выполнена успешно";
-"information_-2" = "Вход выполнен успешно";
+"error_1" = "Дұрыс емес сұрау";
+"error_2" = "Логин немесе құпиясөз дұрыс емес";
+"error_3" = "Рұқсат етілмеген";
+"error_4" = "Қолданушы жоқ";
+"information_-1" = "Сәтті";
+"information_-2" = "Сәтті кіру";
 
-"no_data" = "Нет данных";
-"no_data_description" = "В этом представлении отсутствуют данные.";
+"no_data" = "Деректер жоқ";
+"no_data_description" = "Мұнда деректер жоқ.";
 
-"error" = "Ошибка";
-"error_shorturl" = "Данный короткий адрес уже занят.";
-"error_segmentation" = "Ошибка сегментации";
-"error_upload_failed" = "Не удалось загрузить фото";
-"error_old_password" = "Старый пароль не совпадает";
-"error_new_password" = "Новые пароли не совпадает";
-"error_shorturl_incorrect" = "Короткий адрес имеет некорректный формат.";
+"error" = "Error";
+"error_shorturl" = "Бұл мекенжай қазірдің өзінде тиесілі.";
+"error_segmentation" = "Сегментация қателігі";
+"error_upload_failed" = "Фотосурет жүктелмеді";
+"error_old_password" = "Бұрынғы құпиясөз сәйкес келмейді";
+"error_new_password" = "Жаңа құпиясөз сәйкес келмейді";
+"error_shorturl_incorrect" = "Мекенжайдың пішімі дұрыс емес.";
 
-"forbidden" = "Ошибка доступа";
-"forbidden_comment" = "Настройки приватности этого пользователя не разрешают вам смотреть на его страницу.";
+"forbidden" = "Рұқсат қателігі";
+"forbidden_comment" = "Бұл қолданушының құпиялық баптаулары сізге осы парақты қарауға рұқсат бермейді";
 
-"changes_saved" = "Изменения сохранены";
-"changes_saved_comment" = "Новый данные появятся на вашей странице";
+"changes_saved" = "Өзгерістер сақталды";
+"changes_saved_comment" = "Сіздің парақшаңызда жаңа деректер пайда болады";
 
-"photo_saved" = "Фотография сохранена";
-"photo_saved_comment" = "Новое изображние профиля появится у вас на странице";
+"photo_saved" = "Фото сақталды";
+"photo_saved_comment" = "Сіздің жаңа парақша суретіңіз сіздің парақта пайда болады";
 
 /* Admin actions */
 
-"login_as" = "Войти как $1";
-"ban_user_action" = "Забанить пользователя";
-"warn_user_action" = "Предупредить пользователя";
+"login_as" = "$1 ретінде кіру";
+"ban_user_action" = "Пайдаланушыға тыйым салу";
+"warn_user_action" = "Пайдаланушыны ескерту";
 
 /* Paginator */
 
-"paginator_back" = "Назад";
-"paginator_page" = "Страница $1";
-"paginator_next" = "Дальше";
+"paginator_back" = "Артқа";
+"paginator_page" = "$1 бет";
+"paginator_next" = "Алға";
