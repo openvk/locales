@@ -539,7 +539,8 @@
 /* Admin actions */
 
 "login_as" = "$1 ретінде кіру";
-"ban_user_action" = "Пайдаланушыға тыйым салу";
+"manage_user_action" = "Управление пользователем";
+"ban_user_action" = "Заблокировать пользователя";
 "warn_user_action" = "Пайдаланушыны ескерту";
 
 /* Paginator */
