@@ -470,6 +470,7 @@
 /* Admin actions */
 
 "login_as" = "Login as $1";
+"manage_user_action" = "Manage user";
 "ban_user_action" = "Ban user";
 "warn_user_action" = "Warn user";
 
