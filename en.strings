@@ -539,7 +539,8 @@
 /* Admin actions */
 
 "login_as" = "Login as $1";
-"ban_user_action" = "Ban user";
+"manage_user_action" = "Управление пользователем";
+"ban_user_action" = "Заблокировать пользователя";
 "warn_user_action" = "Warn user";
 
 /* Paginator */
