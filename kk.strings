@@ -53,20 +53,20 @@
 
 "relationship_0" = "Таңдалған жоқ";
 "relationship_1" = "Бойдақ";
-"relationship_2" = "Кездесемін";
+"relationship_2" = "Кездеседі";
 "relationship_3" = "Атастырылған";
-"relationship_4" = "Үйленгенмін";
-"relationship_5" = "Азаматтық некедемін";
-"relationship_6" = "Ғашықпын";
+"relationship_4" = "Үйленген";
+"relationship_5" = "Азаматтық некеде";
+"relationship_6" = "Ғашық";
 "relationship_7" = "Барлығы күрделі";
-"relationship_8" = "Белсенді іздеудемін";
+"relationship_8" = "Белсенді іздеуде";
 
 "politViews" = "Саяси көзқ-тар";
 
 "politViews_0" = "Таңдалған";
 "politViews_1" = "Бейтарап";
 "politViews_2" = "Комунистік";
-"politViews_3" = "Социалистің";
+"politViews_3" = "Социалистік";
 "politViews_4" = "Ұстамды";
 "politViews_5" = "Либералдық";
 "politViews_6" = "Кертартпа";
@@ -128,18 +128,21 @@
 /* ^ can be translated as "author's signature". ^ */
 "contains_nsfw" = "NSFW-контент бар";
 "nsfw_warning" = "Бұл жазбада NSFW-контент болуы мүмкін";
-"report" = "Хабарлау";
+"report" = "Шағымдану";
 "attach_photo" = "Сурет тіркеу";
 "no_posts_abstract" = "Бұл жерде ешкім ештеңе жазбады.";
 "attach_no_longer_available" = "Бұл тіркеме бұдан былай қол жетімді емес.";
 "open_post" = "Жазбаны ашу";
-"version_incompatibility" = "Бұл тіркемені көрсете алмадық. Мүмкін мәліметтер базасы OpenVK-дің қазіргі нұсқасымен үйлеспейді.";
+"version_incompatibility" = "Бұл тіркемені көрсете алмадық. Мәліметтер базасы OpenVK-дің қазіргі нұсқасымен үйлеспелмеуі мүмкін.";
 
 /* Friends */
 
 "friends" = "Достар";
 "followers" = "Жазылмандар";
 "follower" = "Жазылман";
+"login_as" = "Кім ретінде кіру:";
+"ban_fast" = "Блоктау";
+"adm_notify" = "Ескерту";
 "friends_add" = "Достарыма қосу";
 "friends_delete" = "Достарымнан жою";
 "friends_reject" = "Өтінімді қабылдамау";
@@ -167,8 +170,8 @@
 "subscribe" = "Жазылу";
 "unsubscribe" = "Топтан шығу";
 "subscriptions" = "Жазылымдар";
-"join_community" = "Қауымға кіру";
-"leave_community" = "Қауымнан шығу";
+"join_community" = "Топқа кіру";
+"leave_community" = "Топтан шығу";
 "min_6_community" = "Топтың аты тым болмаса 6 әріптен көп болу керек";
 "participants" = "Қатысушылар";
 "groups" = "Топтар";
@@ -212,8 +215,8 @@
 
 "open_original" = "Түпнұсқасын ашу";
 
-"avatar_album" = "Парақшадағы фотолар";
-"wall_album" = "Қабырғадағы фотолар";
+"avatar_album" = "Парақшамдағы фотолар";
+"wall_album" = "Қабырғамдағы фотолар";
 
 "albums_zero" = "Альбомдар жоқ";
 "albums_one" = "$1 альбом";
@@ -227,6 +230,8 @@
 "text_note" = "Мазмұны";
 "create_note" = "Жолжазба жазу";
 "actions" = "Әрекеттер";
+"feed" = "Жаңалықтар";
+"publish_post" = "Жазба қосу";
 
 "notes_zero" = "Жолжазбалар жоқ";
 "notes_one" = "$1 жолжазба";
@@ -264,13 +269,12 @@
 
 "header_login" = "кіру";
 "header_registration" = "тіркелу";
-"header_help" = "көмек";
 
 "footer_blog" = "блог";
 "footer_help" = "көмек";
 "footer_developers" = "әзірлеушілер";
 "footer_choose_language" = "тіл таңдау";
-"footer_privacy" = "Құпиялық";
+"footer_privacy" = "құпиялық";
 
 /* Settings */
 
@@ -325,7 +329,7 @@
 "page_address" = "Мекенжай беті";
 "current_email_address" = "Қазіргі Email-мекенжайы";
 "page_id" = "Парақшаның ID-cі";
-"you_can_also" = "Сіз одан басқа";
+"you_can_also" = "Сонымен қатар сіз";
 "delete_your_page" = "парақшаңызды жоя аласыз";
 "delete_album" = "альбомды жоя аласыз";
 
@@ -363,7 +367,7 @@
 
 "feedback" = "Жауаптар";
 "unread" = "Оқылмаған";
-"archive" = "Архив";
+"archive" = "Мұрағат";
 
 "notifications_like" = "$1 сіздің $4 жазған $2жазбаңызды$3 ұнатады";
 "notifications_repost" = "$1 сіздің $4 жазған $2жазбаңызбен$3 бөлісті";
@@ -444,8 +448,8 @@
 "error_2" = "Логин немесе құпиясөз дұрыс емес";
 "error_3" = "Рұқсат етілмеген";
 "error_4" = "Қолданушы жоқ";
-"information_-1" = "Сәтті";
-"information_-2" = "Сәтті кіру";
+"information_-1" = "Операция сәтті аяқталды";
+"information_-2" = "Жүйеге кіру сәтті аяқталды";
 
 "no_data" = "Деректер жоқ";
 "no_data_description" = "Мұнда деректер жоқ.";
