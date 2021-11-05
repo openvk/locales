@@ -187,6 +187,8 @@
 "group_type_open" = "Bu herkese açık bir gruptur, herkes girebilir.";
 "group_type_closed" = "Bu herkese kapalı bir gruptur, girmek için izin istemelisin.";
 "creator" = "Oluşturan";
+"administrators" = "Администраторы";
+"and_more" = "и еще $1...";
 
 "role" = "Rol";
 "administrator" = "Yönetici";
@@ -194,6 +196,10 @@
 "devote" = "Yetkisini kaldır";
 "group_allow_post_for_everyone" = "Разрешить публиковать записи всем";
 "statistics" = "Статистика";
+"group_administrators_list" = "Список админов";
+"group_display_only_creator" = "Отображать только создателя группы";
+"group_display_all_administrators" = "Отображать всех администраторов";
+"group_dont_display_administrators_list" = "Ничего не отображать";
 
 "participants_zero" = "Katılımcı yok";
 "participants_one" = "$1 katılımcı";
