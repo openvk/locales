@@ -179,6 +179,8 @@
 "group_type_open" = "This is an open group, anyone can enter it.";
 "group_type_closed" = "This is an closed group. To enter, you must submit an request.";
 "creator" = "Creator";
+"administrators" = "Administrators";
+"and_more" = "and $1 more...";
 
 "role" = "Role";
 "administrator" = "Administrator";
@@ -186,6 +188,10 @@
 "devote" = "Devote";
 "group_allow_post_for_everyone" = "Allow posting for everyone";
 "statistics" = "Statistics";
+"group_administrators_list" = "Admins list";
+"group_display_only_creator" = "Display only group creator";
+"group_display_all_administrators" = "Display all administrators";
+"group_dont_display_administrators_list" = "Display nothing";
 
 "participants_zero" = "No participants";
 "participants_one" = "$1 participant";

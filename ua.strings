@@ -187,6 +187,8 @@
 "group_type_open" = "Це відкрита група. В неї може вступити будь-хто бажаючий.";
 "group_type_closed" = "Це закрита група. Для вступу необхідно подати заявку.";
 "creator" = "Автор";
+"administrators" = "Адміністратори";
+"and_more" = "і ще $1...";
 
 "role" = "Роль";
 "administrator" = "Адміністратор";
@@ -194,6 +196,10 @@
 "devote" = "Розжалувати";
 "group_allow_post_for_everyone" = "Дозволити публікувати записи всім";
 "statistics" = "Статистика";
+"group_administrators_list" = "Список адмінів";
+"group_display_only_creator" = "Відображати лише автора групи";
+"group_display_all_administrators" = "Відображати всіх адміністраторів";
+"group_dont_display_administrators_list" = "Нічого не відображати";
 
 "participants_zero" = "Жодного учасника";
 "participants_one" = "Один учасник";
