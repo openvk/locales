@@ -187,6 +187,8 @@
 "group_type_open" = "Бұл ашық топ, яғни оған әркім кіре алады.";
 "group_type_closed" = "Бұл жабық топ, кіру үшін өтінім жазуыңыз қажет.";
 "creator" = "Құрған";
+"administrators" = "Администраторы";
+"and_more" = "и еще $1...";
 
 "role" = "Рөлі";
 "administrator" = "Админ";
@@ -194,6 +196,10 @@
 "devote" = "Арнау";
 "group_allow_post_for_everyone" = "Бәріне жазба жазуға рұқсат беру";
 "statistics" = "Статистика";
+"group_administrators_list" = "Список админов";
+"group_display_only_creator" = "Отображать только создателя группы";
+"group_display_all_administrators" = "Отображать всех администраторов";
+"group_dont_display_administrators_list" = "Ничего не отображать";
 
 "participants_zero" = "Қатысушылар жоқ";
 "participants_one" = "$1 қатысушы";
