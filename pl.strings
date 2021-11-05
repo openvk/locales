@@ -187,6 +187,8 @@
 "group_type_open" = "To otwarta grupa. Każdy może do niej dołączyć.";
 "group_type_closed" = "To grupa zamknięta. Aby dołączyć, musisz złożyć wniosek.";
 "creator" = "Twórca";
+"administrators" = "Администраторы";
+"and_more" = "и еще $1...";
 
 "role" = "Rola";
 "administrator" = "Administrator";
@@ -194,6 +196,10 @@
 "devote" = "Zdegradować";
 "group_allow_post_for_everyone" = "Zezwalaj na publikowanie wpisów wszystkim";
 "statistics" = "Statystyk";
+"group_administrators_list" = "Список админов";
+"group_display_only_creator" = "Отображать только создателя группы";
+"group_display_all_administrators" = "Отображать всех администраторов";
+"group_dont_display_administrators_list" = "Ничего не отображать";
 
 "participants_zero" = "Brak uczestnika";
 "participants_one" = "Jeden uczestnik";
