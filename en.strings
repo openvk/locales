@@ -188,12 +188,16 @@
 "group_type_closed" = "This is an closed group. To enter, you must submit an request.";
 "creator" = "Creator";
 "administrators" = "Администраторы";
-"and_more" = "и еще $1...";
+
+"administrators_one" = "$1 администратор";
+"administrators_few" = "$1 администратора";
+"administrators_other" = "$1 администраторов";
 
 "role" = "Role";
 "administrator" = "Administrator";
 "promote_to_admin" = "Promote to admin";
 "devote" = "Devote";
+"set_comment" = "Изменить комментарий";
 "group_allow_post_for_everyone" = "Allow posting for everyone";
 "statistics" = "Statistics";
 "group_administrators_list" = "Список админов";
