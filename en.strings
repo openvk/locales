@@ -186,6 +186,7 @@
 "administrator" = "Administrator";
 "promote_to_admin" = "Promote to admin";
 "devote" = "Devote";
+"set_comment" = "Set comment";
 "group_allow_post_for_everyone" = "Allow posting for everyone";
 "statistics" = "Statistics";
 "group_administrators_list" = "Admins list";

@@ -194,6 +194,7 @@
 "administrator" = "Администратор";
 "promote_to_admin" = "Повысить до администратора";
 "devote" = "Разжаловать";
+"set_comment" = "Изменить комментарий";
 "group_allow_post_for_everyone" = "Разрешить публиковать записи всем";
 "statistics" = "Статистика";
 "group_administrators_list" = "Список админов";
