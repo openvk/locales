@@ -191,7 +191,8 @@
 "administrator" = "Әкімші";
 "promote_to_admin" = "Әкімші қылдыру";
 "devote" = "Арнау";
-"group_allow_post_for_everyone" = "Бәріне жазба жазуға рұқсат беру";
+"set_comment" = "Пікірді өңдеу";
+"group_allow_post_for_everyone" = "Бәріне жазба жазуға рұқсат ету";
 "statistics" = "Статистика";
 "group_administrators_list" = "Әкімшілер тізімі";
 "group_display_only_creator" = "Тек топты құрған кісіні көрсету";
