@@ -188,12 +188,16 @@
 "group_type_closed" = "To je zatvorena grupa. Morate se prijaviti.";
 "creator" = "Stvaralac";
 "administrators" = "Администраторы";
-"and_more" = "и еще $1...";
+
+"administrators_one" = "$1 администратор";
+"administrators_few" = "$1 администратора";
+"administrators_other" = "$1 администраторов";
 
 "role" = "Uloga";
 "administrator" = "Administrator";
 "promote_to_admin" = "Promovisati do administatora";
 "devote" = "Ražalovati ulogu";
+"set_comment" = "Изменить комментарий";
 "group_allow_post_for_everyone" = "Разрешить публиковать записи всем";
 "statistics" = "Статистика";
 "group_administrators_list" = "Список админов";
