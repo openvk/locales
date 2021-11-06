@@ -180,12 +180,15 @@
 "group_type_closed" = "This is an closed group. To enter, you must submit an request.";
 "creator" = "Creator";
 "administrators" = "Administrators";
-"and_more" = "and $1 more...";
+
+"administrators_one" = "$1 administrator";
+"administrators_other" = "$1 administrators";
 
 "role" = "Role";
 "administrator" = "Administrator";
 "promote_to_admin" = "Promote to admin";
 "devote" = "Devote";
+"set_comment" = "Set comment";
 "group_allow_post_for_everyone" = "Allow posting for everyone";
 "statistics" = "Statistics";
 "group_administrators_list" = "Admins list";
