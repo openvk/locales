@@ -188,12 +188,16 @@
 "group_type_closed" = "Это закрытая группа. Для вступления необходимо подавать заявку.";
 "creator" = "Создатель";
 "administrators" = "Администраторы";
-"and_more" = "и еще $1...";
+
+"administrators_one" = "$1 администратор";
+"administrators_few" = "$1 администратора";
+"administrators_other" = "$1 администраторов";
 
 "role" = "Роль";
 "administrator" = "Администратор";
 "promote_to_admin" = "Повысить до администратора";
 "devote" = "Разжаловать";
+"set_comment" = "Изменить комментарий";
 "group_allow_post_for_everyone" = "Разрешить публиковать записи всем";
 "statistics" = "Статистика";
 "group_administrators_list" = "Список админов";
