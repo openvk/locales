@@ -182,13 +182,22 @@
 "group_type_open" = "Бұл ашық топ, яғни оған әркім кіре алады.";
 "group_type_closed" = "Бұл жабық топ, кіру үшін өтінім жазуыңыз қажет.";
 "creator" = "Құрған";
+"administrators" = "Әкімшілер";
+
+"administrators_one" = "$1 әкімші";
+"administrators_other" = "$1 әкімші";
 
 "role" = "Рөлі";
-"administrator" = "Админ";
-"promote_to_admin" = "Админ қылдыру";
+"administrator" = "Әкімші";
+"promote_to_admin" = "Әкімші қылдыру";
 "devote" = "Арнау";
-"group_allow_post_for_everyone" = "Бәріне жазба жазуға рұқсат беру";
+"set_comment" = "Пікірді өңдеу";
+"group_allow_post_for_everyone" = "Бәріне жазба жазуға рұқсат ету";
 "statistics" = "Статистика";
+"group_administrators_list" = "Әкімшілер тізімі";
+"group_display_only_creator" = "Тек топты құрған кісіні көрсету";
+"group_display_all_administrators" = "Барлық әкімшілерді көрсету";
+"group_dont_display_administrators_list" = "Ештеңе көрсетпеу";
 
 "participants_zero" = "Қатысушылар жоқ";
 "participants_one" = "$1 қатысушы";
@@ -321,11 +330,12 @@
 "privacy_value_users" = "OpenVK қолданушылары";
 "privacy_value_friends" = "Достарым";
 "privacy_value_friends_dative" = "Достарым";
-"privacy_value_only_me" = "Мен ғана";
-"privacy_value_only_me_dative" = "Мен ғана";
+"privacy_value_only_me_and_super_capite" = "Мен ғана";
+"privacy_value_only_me_and_super_capite_dative" = "Маған ғана";
+"privacy_value_super_capite" = "Ешкімге";
 
 "your_email_address" = "Сіздің Email-мекенжайыңыз";
-"your_page_address" = "Сіздің мекен-жай бетіңіз";
+"your_page_address" = "Сіздің мекенжай бетіңіз";
 "page_address" = "Мекенжай беті";
 "current_email_address" = "Қазіргі Email-мекенжайы";
 "page_id" = "Парақшаның ID-cі";
