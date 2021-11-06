@@ -188,7 +188,10 @@
 "group_type_closed" = "Це закрита група. Для вступу необхідно подати заявку.";
 "creator" = "Автор";
 "administrators" = "Адміністратори";
-"and_more" = "і ще $1...";
+
+"administrators_one" = "$1 адміністратор";
+"administrators_few" = "$1 адміністратора";
+"administrators_other" = "$1 адміністратоів";
 
 "role" = "Роль";
 "administrator" = "Адміністратор";
