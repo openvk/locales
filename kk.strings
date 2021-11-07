@@ -381,27 +381,27 @@
 
 "notifications_like" = "$1 сіздің $4 жазған $2жазбаңызды$3 ұнатады";
 "notifications_repost" = "$1 сіздің $4 жазған $2жазбаңызбен$3 бөлісті";
-"notifications_comment_under" = "$1 $2 жайында пікір жазды";
-"notifications_under_note" = "сіздің $3жолжазба$4";
-"notifications_under_photo" = "сіздің $3фото$4";
-"notifications_under_post" = "сіздің $5 жазған $3жазба$4";
-"notifications_under_video" = "сіздің $3видеожазба$4";
+"notifications_comment_under" = "$1 $2 астына пікір жазды";
+"notifications_under_note" = "сіздің $3жолжазбаңыздың$4";
+"notifications_under_photo" = "сіздің $3фотоңыздың$4";
+"notifications_under_post" = "сіздің сағат $5 жазған $3жазбаңызға$4";
+"notifications_under_video" = "сіздің $3видеожазбаңызға$4";
 "notifications_post" = "$1 сіздің қабырғаңызға $2жазба$3 қойды: $4";
 "notifications_appoint" = "$1 сізді қоғамның менеджері етіп тағайындады $2";
 
-"nt_liked_yours" = "сіздікің ұнатады";
-"nt_shared_yours" = "сіздікімен бөлісті";
-"nt_commented_yours" = "сіздікімен пікір жазды";
-"nt_written_on_your_wall" = "сіздің қабырғаңызға жазған";
+"nt_liked_yours" = "ұнатты";
+"nt_shared_yours" = "бөлісті";
+"nt_commented_yours" = "пікір жазды";
+"nt_written_on_your_wall" = "сіздің қабырғаңызға жазды";
 "nt_made_you_admin" = "сізді қоғамда тағайындады";
 
 "nt_from" = "";
 "nt_yours_adjective" = "сіздің";
 "nt_yours_feminitive_adjective" = "сіздің";
 "nt_post_nominative" = "жазба";
-"nt_post_instrumental" = "жазба";
-"nt_note_instrumental" = "жолжазба";
-"nt_photo_instrumental" = "фото";
+"nt_post_instrumental" = "жазбаңызға";
+"nt_note_instrumental" = "жолжазбаңызға";
+"nt_photo_instrumental" = "фотоңызға";
 
 /* Time */
 
@@ -412,7 +412,7 @@
 "time_today" = "бүгін";
 "time_yesterday" = "кеше";
 
-"vouchers" = "Ваучерлар";
+"vouchers" = "Ваучерлер";
 "have_voucher" = "Ваучер бар";
 "voucher_token" = "Ваучер коды";
 "voucher_activators" = "Қолданғандар";
