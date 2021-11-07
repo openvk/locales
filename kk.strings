@@ -51,7 +51,7 @@
 
 "relationship" = "Отбасылық жағдай";
 
-"relationship_0" = "Таңдалған жоқ";
+"relationship_0" = "Таңдалмаған";
 "relationship_1" = "Бойдақ";
 "relationship_2" = "Кездеседі";
 "relationship_3" = "Атастырылған";
@@ -63,7 +63,7 @@
 
 "politViews" = "Саяси көзқ-тар";
 
-"politViews_0" = "Таңдалған";
+"politViews_0" = "Таңдалмаған";
 "politViews_1" = "Бейтарап";
 "politViews_2" = "Комунистік";
 "politViews_3" = "Социалистік";
