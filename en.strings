@@ -79,6 +79,7 @@
 "email" = "Email";
 "phone" = "Phone";
 "telegram" = "Telegram";
+"personal_website" = "Personal website";
 "city" = "City";
 "address" = "Address";
 
@@ -180,6 +181,7 @@
 "group_type_closed" = "This is an closed group. To enter, you must submit an request.";
 "creator" = "Creator";
 "administrators" = "Administrators";
+"website" = "Website";
 
 "administrators_one" = "$1 administrator";
 "administrators_other" = "$1 administrators";

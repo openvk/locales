@@ -78,6 +78,7 @@
 "email" = "Електронна пошта";
 "phone" = "Телефон";
 "telegram" = "Telegram";
+"personal_website" = "Особистий сайт";
 "city" = "Місто";
 "address" = "Адреса";
 
@@ -188,6 +189,7 @@
 "group_type_closed" = "Це закрита група. Для вступу необхідно подати заявку.";
 "creator" = "Автор";
 "administrators" = "Адміністратори";
+"website" = "Сайт";
 
 "administrators_one" = "$1 адміністратор";
 "administrators_few" = "$1 адміністратора";
