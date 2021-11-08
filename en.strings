@@ -13,7 +13,7 @@
 "log_in" = "Log in";
 "password" = "Password";
 "registration" = "Registration";
-"forgot_password" = "Забыли пароль?";
+"forgot_password" = "Forgot your password?";
 
 /* Profile information */
 
@@ -44,9 +44,9 @@
 "status" = "Status";
 "no_information_provided" = "No information provided.";
 "deceased_person" = "Deceased person";
-"none" = "отсутствует";
+"none" = "missing";
 "years" = "y.o";
-"send" = "Отправить";
+"send" = "Send";
 
 "relationship" = "Relationship";
 
@@ -105,9 +105,9 @@
 "delete" = "Delete";
 "comments" = "Comments";
 "share" = "Share";
-"pin" = "Закрепить";
-"unpin" = "Открепить";
-"pinned" = "закреплено";
+"pin" = "Pin";
+"unpin" = "Unpin";
+"pinned" = "pinned";
 "comments_tip" = "Be first, who leaves a comment at this post!";
 "your_comment" = "Your comment";
 "comments" = "Comments";
@@ -119,18 +119,18 @@
 "wall_many" = "$1 posts";
 "wall_other" = "$1 posts";
 
-"all_news" = "Все новости";
-"posts_per_page" = "Количество записей на странице";
+"all_news" = "All posts";
+"posts_per_page" = "Posts per page";
 
-"attachment" = "Вложение";
+"attachment" = "Attachment";
 "post_as_group" = "От имени сообщества";
 "add_signature" = "Подпись автора";
-"contains_nsfw" = "Содержит NSFW-контент";
+"contains_nsfw" = "Might contain NSFW materials";
 "nsfw_warning" = "This post may have NSFW-content";
 "report" = "Report";
 "attach_photo" = "Attach photo";
 "no_posts_abstract" = "Nobody wrote anything here... At least.";
-"attach_no_longer_available" = "Это вложение больше недоступно.";
+"attach_no_longer_available" = "This attachment is no longer avaliable.";
 "open_post" = "Открыть запись";
 "version_incompatibility" = "Не удалось отобразить это вложение. Возможно, база данных несовместима с текущей версией OpenVK.";
 
@@ -187,9 +187,9 @@
 "group_type_open" = "This is an open group, anyone can enter it.";
 "group_type_closed" = "This is an closed group. To enter, you must submit an request.";
 "creator" = "Creator";
-"administrators" = "Администраторы";
+"administrators" = "Administrators";
 
-"administrators_one" = "$1 администратор";
+"administrators_one" = "$1 administrator";
 "administrators_few" = "$1 администратора";
 "administrators_other" = "$1 администраторов";
 
@@ -197,7 +197,7 @@
 "administrator" = "Administrator";
 "promote_to_admin" = "Promote to admin";
 "devote" = "Devote";
-"set_comment" = "Изменить комментарий";
+"set_comment" = "Edit Comment";
 "group_allow_post_for_everyone" = "Allow posting for everyone";
 "statistics" = "Statistics";
 "group_administrators_list" = "Список админов";
@@ -290,8 +290,8 @@
 "header_log_out" = "log out";
 "header_search" = "Search";
 
-"header_login" = "вход";
-"header_registration" = "регистрация";
+"header_login" = "login";
+"header_registration" = "sign up";
 
 "footer_blog" = "blog";
 "footer_help" = "help";
@@ -332,8 +332,8 @@
 "search_for_groups" = "Search for groups";
 "search_for_people" = "Search for people";
 "search_button" = "Find";
-"results_zero" = "Ни одного результата";
-"results_one" = "Один результат";
+"results_zero" = "No results";
+"results_one" = "One result";
 "results_few" = "$1 результата";
 "results_many" = "$1 результатов";
 "results_other" = "$1 результатов";
@@ -484,7 +484,7 @@
 "voucher_good" = "Ваучер активирован";
 "voucher_redeemed" = "Ваучер был успешно активирован. Вам будут начислены голоса, но этим кодом вы больше не сможете активировать его.";
 "redeem" = "Активировать ваучер";
-"deactivate" = "Деактивировать";
+"deactivate" = "Deactivate";
 "usages_total" = "Количество использований";
 "usages_left" = "Осталось использований";
 
@@ -506,7 +506,7 @@
 "as_anonymous" = "Анонимно";
 "gift_your_message" = "Ваше сообщение";
 
-"free_gift" = "Бесплатно";
+"free_gift" = "Free";
 "coins" = "Голоса";
 "coins_zero" = "0 голосов";
 "coins_one" = "Один голос";
@@ -550,7 +550,7 @@
 
 "login_as" = "Login as $1";
 "manage_user_action" = "Управление пользователем";
-"ban_user_action" = "Заблокировать пользователя";
+"ban_user_action" = "Block User";
 "warn_user_action" = "Warn user";
 
 /* Paginator */
