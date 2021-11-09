@@ -331,8 +331,8 @@
 "privacy_value_friends" = "Достарым";
 "privacy_value_friends_dative" = "Достарым";
 "privacy_value_only_me_and_super_capite" = "Мен ғана";
-"privacy_value_only_me_and_super_capite_dative" = "Маған ғана";
-"privacy_value_super_capite" = "Ешкімге";
+"privacy_value_only_me_and_super_capite_dative" = "Мен ғана";
+"privacy_value_super_capite" = "Ешкім";
 
 "your_email_address" = "Сіздің Email-мекенжайыңыз";
 "your_page_address" = "Сіздің мекенжай бетіңіз";
