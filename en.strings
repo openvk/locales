@@ -180,6 +180,8 @@
 "group_type_closed" = "This is an closed group. To enter, you must submit an request.";
 "creator" = "Creator";
 "administrators" = "Administrators";
+"add_to_left_menu" = "Add to left menu";
+"remove_from_left_menu" = "Remove from left menu";
 
 "administrators_one" = "$1 administrator";
 "administrators_other" = "$1 administrators";
