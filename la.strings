@@ -188,6 +188,8 @@
 "group_type_closed" = "Это закрытая группа. Для вступления необходимо подавать заявку.";
 "creator" = "Effector";
 "administrators" = "Администраторы";
+"add_to_left_menu" = "Добавить в левое меню";
+"remove_from_left_menu" = "Удалить из левого меню";
 
 "administrators_one" = "$1 администратор";
 "administrators_few" = "$1 администратора";
