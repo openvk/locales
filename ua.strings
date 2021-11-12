@@ -188,6 +188,8 @@
 "group_type_closed" = "Це закрита група. Для вступу необхідно подати заявку.";
 "creator" = "Автор";
 "administrators" = "Адміністратори";
+"add_to_left_menu" = "Додати до лівого меню";
+"remove_from_left_menu" = "Видалити з лівого меню";
 "all_followers" = "Всі підписники";
 "only_administrators" = "Тільки адміністратори";
 
