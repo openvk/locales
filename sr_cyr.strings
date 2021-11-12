@@ -190,6 +190,8 @@
 "administrators" = "Администраторы";
 "add_to_left_menu" = "Добавить в левое меню";
 "remove_from_left_menu" = "Удалить из левого меню";
+"all_followers" = "Все подписчики";
+"only_administrators" = "Только администраторы";
 
 "administrators_one" = "$1 администратор";
 "administrators_few" = "$1 администратора";
@@ -200,6 +202,8 @@
 "promote_to_admin" = "Промовисати до администратора";
 "devote" = "Ражаловати улогу";
 "set_comment" = "Изменить комментарий";
+"hidden_yes" = "Скрыт: Да";
+"hidden_no" = "Скрыт: Нет";
 "group_allow_post_for_everyone" = "Разрешить публиковать записи всем";
 "statistics" = "Статистика";
 "group_administrators_list" = "Список админов";
