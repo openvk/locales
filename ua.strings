@@ -189,17 +189,23 @@
 "group_type_closed" = "Це закрита група. Для вступу необхідно подати заявку.";
 "creator" = "Автор";
 "administrators" = "Адміністратори";
+"add_to_left_menu" = "Додати до лівого меню";
+"remove_from_left_menu" = "Видалити з лівого меню";
+"all_followers" = "Всі підписники";
+"only_administrators" = "Тільки адміністратори";
 "website" = "Сайт";
 
 "administrators_one" = "$1 адміністратор";
 "administrators_few" = "$1 адміністратора";
-"administrators_other" = "$1 адміністратоів";
+"administrators_other" = "$1 адміністраторів";
 
 "role" = "Роль";
 "administrator" = "Адміністратор";
 "promote_to_admin" = "Підвищити до адміністратора";
 "devote" = "Розжалувати";
 "set_comment" = "Змінити коментар";
+"hidden_yes" = "Прихований: Так";
+"hidden_no" = "Прихований: Ні";
 "group_allow_post_for_everyone" = "Дозволити публікувати записи всім";
 "statistics" = "Статистика";
 "group_administrators_list" = "Список адмінів";
