@@ -182,6 +182,8 @@
 "administrators" = "Administrators";
 "add_to_left_menu" = "Add to left menu";
 "remove_from_left_menu" = "Remove from left menu";
+"all_followers" = "All followers";
+"only_administrators" = "Only administrators";
 
 "administrators_one" = "$1 administrator";
 "administrators_other" = "$1 administrators";
@@ -191,6 +193,8 @@
 "promote_to_admin" = "Promote to admin";
 "devote" = "Devote";
 "set_comment" = "Set comment";
+"hidden_yes" = "Hidden: Yes";
+"hidden_no" = "Hidden: No";
 "group_allow_post_for_everyone" = "Allow posting for everyone";
 "statistics" = "Statistics";
 "group_administrators_list" = "Admins list";
