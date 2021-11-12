@@ -79,6 +79,7 @@
 "email" = "Email";
 "phone" = "Phone";
 "telegram" = "Telegram";
+"personal_website" = "Personal website";
 "city" = "City";
 "address" = "Address";
 
@@ -184,6 +185,7 @@
 "remove_from_left_menu" = "Remove from left menu";
 "all_followers" = "All followers";
 "only_administrators" = "Only administrators";
+"website" = "Website";
 
 "administrators_one" = "$1 administrator";
 "administrators_other" = "$1 administrators";

@@ -78,6 +78,7 @@
 "email" = "Електронна пошта";
 "phone" = "Телефон";
 "telegram" = "Telegram";
+"personal_website" = "Особистий сайт";
 "city" = "Місто";
 "address" = "Адреса";
 
@@ -192,6 +193,7 @@
 "remove_from_left_menu" = "Видалити з лівого меню";
 "all_followers" = "Всі підписники";
 "only_administrators" = "Тільки адміністратори";
+"website" = "Сайт";
 
 "administrators_one" = "$1 адміністратор";
 "administrators_few" = "$1 адміністратора";
