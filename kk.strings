@@ -79,6 +79,7 @@
 "email" = "Email";
 "phone" = "Ұялы телефон";
 "telegram" = "Telegram";
+"personal_website" = "Жеке сайт";
 "city" = "Қала";
 "address" = "Мекен-жай";
 
@@ -183,6 +184,11 @@
 "group_type_closed" = "Бұл жабық топ, кіру үшін өтінім жазуыңыз қажет.";
 "creator" = "Құрған";
 "administrators" = "Әкімшілер";
+"add_to_left_menu" = "Сол жақтағы менюге қосу";
+"remove_from_left_menu" = "Сол жақтағы менюден алу";
+"all_followers" = "Барлық жазылмандар";
+"only_administrators" = "Тек әкімшілер";
+"website" = "Сайт";
 
 "administrators_one" = "$1 әкімші";
 "administrators_other" = "$1 әкімші";
@@ -192,6 +198,8 @@
 "promote_to_admin" = "Әкімші қылдыру";
 "devote" = "Арнау";
 "set_comment" = "Пікірді өңдеу";
+"hidden_yes" = "Жасырылған: Ия";
+"hidden_no" = "Жасырылған: Жоқ";
 "group_allow_post_for_everyone" = "Бәріне жазба жазуға рұқсат ету";
 "statistics" = "Статистика";
 "group_administrators_list" = "Әкімшілер тізімі";
@@ -382,10 +390,10 @@
 "notifications_like" = "$1 сіздің $4 жазған $2жазбаңызды$3 ұнатады";
 "notifications_repost" = "$1 сіздің $4 жазған $2жазбаңызбен$3 бөлісті";
 "notifications_comment_under" = "$1 $2 астына пікір жазды";
-"notifications_under_note" = "сіздің $3жолжазбаңыздың$4";
-"notifications_under_photo" = "сіздің $3фотоңыздың$4";
-"notifications_under_post" = "сіздің сағат $5 жазған $3жазбаңызға$4";
-"notifications_under_video" = "сіздің $3видеожазбаңызға$4";
+"notifications_under_note" = "сіздің $3жолжазбаңызбен$4";
+"notifications_under_photo" = "сіздің $3фотоңызбен$4";
+"notifications_under_post" = "сіздің $5 жазған $3жазбаңызбен$4";
+"notifications_under_video" = "сіздің $3видеожазбаңызмен$4";
 "notifications_post" = "$1 сіздің қабырғаңызға $2жазба$3 қойды: $4";
 "notifications_appoint" = "$1 сізді қоғамның менеджері етіп тағайындады $2";
 
@@ -399,9 +407,9 @@
 "nt_yours_adjective" = "сіздің";
 "nt_yours_feminitive_adjective" = "сіздің";
 "nt_post_nominative" = "жазба";
-"nt_post_instrumental" = "жазбаңызға";
-"nt_note_instrumental" = "жолжазбаңызға";
-"nt_photo_instrumental" = "фотоңызға";
+"nt_post_instrumental" = "жазбаңызбен";
+"nt_note_instrumental" = "жолжазбаңызбен";
+"nt_photo_instrumental" = "фотоңызбен";
 
 /* Time */
 
