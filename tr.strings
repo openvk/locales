@@ -77,6 +77,7 @@
 "email" = "E-posta";
 "phone" = "Telefon";
 "telegram" = "Telegram";
+"personal_website" = "Kişisel websitesi";
 "city" = "Şehir";
 "address" = "Adres";
 
@@ -178,13 +179,29 @@
 "group_type_open" = "Bu herkese açık bir gruptur, herkes girebilir.";
 "group_type_closed" = "Bu herkese kapalı bir gruptur, girmek için izin istemelisin.";
 "creator" = "Oluşturan";
+"administrators" = "Yöneticiler";
+"add_to_left_menu" = "Soldaki menüye ekle";
+"remove_from_left_menu" = "Soldaki menüden kaldır";
+"all_followers" = "Tüm takipçiler";
+"only_administrators" = "Yalnızca yöneticiler";
+"website" = "Websitesi";
+
+"administrators_one" = "$1 yönetici";
+"administrators_other" = "$1 yönetici";
 
 "role" = "Rol";
 "administrator" = "Yönetici";
 "promote_to_admin" = "Yöneticiliğe yükselt";
 "devote" = "Yetkisini kaldır";
+"set_comment" = "Yorum ayarla";
+"hidden_yes" = "Gizli: Evet";
+"hidden_no" = "Gizli: Hayır";
 "group_allow_post_for_everyone" = "Herkesin gönderi yapmasına izin ver";
 "statistics" = "İstatistikler";
+"group_administrators_list" = "Yönetici listesi";
+"group_display_only_creator" = "Yalnızca grup kurucusunu göster";
+"group_display_all_administrators" = "Tüm yöneticileri göster";
+"group_dont_display_administrators_list" = "Hiçbir şey gösterme";
 
 "participants_zero" = "Katılımcı yok";
 "participants_one" = "$1 katılımcı";
@@ -462,6 +479,7 @@
 /* Admin actions */
 
 "login_as" = "$1 olarak giriş yap";
+"manage_user_action" = "Kullanıcıyı yönet";
 "ban_user_action" = "Kullanıcıyı yasakla";
 "warn_user_action" = "Kullanıcıyı uyar";
 
