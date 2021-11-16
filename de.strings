@@ -12,6 +12,7 @@
 "log_in" = "Einloggen";
 "password" = "Passwort";
 "registration" = "Registrierung";
+"forgot_password" = "Passwort vergessen?";
 
 /* Profile information */
 
@@ -46,6 +47,7 @@
 "status" = "Status";
 "no_information_provided" = "Keine Informationen angegeben.";
 "deceased_person" = "Gestorbene Person";
+"none" = "Nichts";
 
 "relationship" = "Beziehung";
 
@@ -77,6 +79,7 @@
 "email" = "E-Mail";
 "phone" = "Telefonnummer";
 "telegram" = "Telegram";
+"personal_website" = "Persönliche Website";
 "city" = "Stadt";
 "address" = "Adresse";
 
@@ -176,13 +179,29 @@
 "group_type_open" = "Dies ist eine offene Gruppe, jeder kann dieser beitreten.";
 "group_type_closed" = "Dies ist eine geschlossene Grupe. Um beizutreten musst du eine Anfrage senden.";
 "creator" = "Ersteller";
+"administrators" = "Administratoren";
+"add_to_left_menu" = "Zum linken Menü hinzufügen";
+"remove_from_left_menu" = "Vom linken Menü entfernen";
+"all_followers" = "Alle Follower";
+"only_administrators" = "Nur Administratoren";
+"website" = "Website";
 
+"administrators_one" = "$1 Administrator";
+"administrators_other" = "$1 Administratoren";
+"set_comment" = "Kommentar festlegen";
+"hidden_yes" = "Versteckt: Ja";
+"hidden_no" = "Versteckt: Nein";
 "role" = "Rolle";
 "administrator" = "Administrator";
 "promote_to_admin" = "Zum Administrator befördern";
 "devote" = "Herabstufens";
+
 "group_allow_post_for_everyone" = "Jedem erlauben zu posten";
 "statistics" = "Statistiken";
+"group_administrators_list" = "Liste der Administratoren";
+"group_display_only_creator" = "Nur den Gruppenersteller anzeigen";
+"group_display_all_administrators" = "Alle Administratoren anzeigen";
+"group_dont_display_administrators_list" = "Nichts anzeigen";
 
 "participants_zero" = "Keine Teilnehmer";
 "participants_one" = "$1 Teilnehmer";
@@ -467,6 +486,7 @@
 /* Admin actions */
 
 "login_as" = "Als $1 einloggen";
+"manage_user_action" = "Nutzer verwalten";
 "ban_user_action" = "Nutzer sperren";
 "warn_user_action" = "Nutzer verwarnen";
 
