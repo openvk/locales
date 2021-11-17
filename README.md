@@ -1,3 +1,6 @@
+# DEPRECATED
+We no longer use this repo as a submodule. Please commit directly to openvk/openvk/master. Thank you.
+
 # Locales for OpenVK
 So, there is a locales contained here for [OpenVK](../../../openvk).
 
